@@ -1,0 +1,1001 @@
+Temperature,Fever_Severity,Age,Gender,BMI,Headache,Body_Ache,Fatigue,Chronic_Conditions,Allergies,Smoking_History,Alcohol_Consumption,Heart_Rate,Blood_Pressure
+36.1,Normal,89,Female,24.0,No,Yes,No,No,Yes,No,Yes,72,Normal
+37.5,Mild Fever,94,Male,26.6,No,No,No,Yes,No,Yes,Yes,62,High
+36.4,Normal,92,Male,27.8,No,No,No,No,No,No,Yes,85,High
+39.8,High Fever,66,Male,18.7,No,Yes,No,No,No,No,No,96,High
+39.3,High Fever,28,Male,21.0,No,Yes,No,Yes,Yes,Yes,Yes,85,Low
+38.3,High Fever,48,Female,24.3,No,Yes,No,No,Yes,No,No,70,Low
+39.1,High Fever,63,Male,18.5,Yes,No,No,No,Yes,No,Yes,70,Low
+39.9,High Fever,54,Female,20.7,No,Yes,Yes,No,No,Yes,Yes,72,Normal
+36.7,Normal,46,Female,32.0,No,No,Yes,Yes,No,No,Yes,98,Normal
+38.6,High Fever,11,Female,25.6,Yes,Yes,No,No,Yes,Yes,Yes,83,Normal
+39.5,High Fever,24,Male,33.0,Yes,Yes,No,Yes,Yes,No,No,65,Normal
+36.5,Normal,75,Male,23.1,Yes,Yes,Yes,No,No,No,Yes,76,High
+38.2,High Fever,18,Male,25.2,No,No,Yes,No,Yes,Yes,Yes,84,Low
+38.1,High Fever,97,Male,20.9,No,Yes,No,No,No,Yes,Yes,73,Low
+39.7,High Fever,83,Female,27.0,No,Yes,Yes,Yes,No,No,No,100,Normal
+39.3,High Fever,17,Female,25.6,No,No,No,Yes,Yes,No,Yes,79,Low
+39.0,High Fever,18,Female,24.0,Yes,Yes,Yes,No,Yes,No,Yes,97,Normal
+38.5,High Fever,79,Female,34.7,Yes,Yes,No,Yes,Yes,No,No,84,Normal
+38.4,High Fever,96,Female,25.8,No,Yes,Yes,No,No,No,No,67,Low
+38.2,High Fever,29,Female,20.8,No,Yes,No,No,Yes,Yes,Yes,94,Low
+37.9,Mild Fever,65,Female,33.6,Yes,Yes,No,Yes,Yes,No,No,65,High
+39.7,High Fever,72,Male,31.8,No,Yes,Yes,No,Yes,No,Yes,93,Low
+39.9,High Fever,56,Female,29.2,No,Yes,No,Yes,No,Yes,Yes,68,High
+36.2,Normal,36,Male,27.8,No,No,Yes,No,Yes,Yes,Yes,66,High
+39.3,High Fever,12,Male,31.2,Yes,No,No,No,No,Yes,No,73,Normal
+37.7,Mild Fever,84,Female,31.8,Yes,No,Yes,Yes,No,Yes,No,98,High
+39.9,High Fever,1,Female,29.8,No,Yes,No,Yes,Yes,Yes,Yes,69,Normal
+38.7,High Fever,27,Female,23.9,Yes,Yes,Yes,No,No,Yes,Yes,72,Low
+36.2,Normal,71,Male,30.4,No,Yes,No,Yes,Yes,No,Yes,74,Low
+38.6,High Fever,97,Male,34.6,Yes,No,No,Yes,No,No,Yes,61,High
+36.3,Normal,12,Female,28.2,No,No,Yes,No,Yes,Yes,No,84,High
+39.9,High Fever,51,Female,24.7,No,No,No,No,Yes,No,No,76,Low
+38.3,High Fever,51,Male,21.8,No,Yes,No,Yes,Yes,No,No,67,High
+39.4,High Fever,100,Male,23.9,Yes,No,No,No,Yes,No,Yes,76,Low
+36.1,Normal,55,Female,21.4,Yes,Yes,Yes,Yes,Yes,No,No,92,High
+38.0,Mild Fever,7,Female,33.4,No,No,No,Yes,Yes,Yes,No,98,Normal
+36.8,Normal,21,Female,19.6,Yes,Yes,Yes,No,Yes,No,Yes,82,Low
+38.7,High Fever,22,Male,18.1,No,No,Yes,Yes,No,Yes,No,89,Normal
+37.8,Mild Fever,60,Female,34.9,Yes,No,No,No,Yes,Yes,Yes,92,High
+39.4,High Fever,44,Male,31.2,Yes,Yes,Yes,No,Yes,Yes,No,81,Normal
+38.1,High Fever,16,Female,25.2,Yes,No,No,Yes,No,Yes,Yes,77,High
+38.1,High Fever,77,Female,22.1,No,Yes,Yes,No,No,Yes,Yes,71,Low
+36.0,Normal,19,Female,27.7,No,No,Yes,Yes,Yes,No,Yes,70,High
+37.3,Mild Fever,60,Male,30.2,Yes,Yes,No,No,No,Yes,No,73,Normal
+36.7,Normal,77,Male,25.2,No,No,Yes,Yes,No,No,Yes,77,Normal
+36.3,Normal,66,Female,34.7,Yes,No,Yes,Yes,No,Yes,No,93,Low
+39.5,High Fever,53,Male,27.0,No,Yes,No,Yes,Yes,Yes,Yes,85,Normal
+39.7,High Fever,64,Male,26.4,No,No,Yes,No,No,Yes,No,87,Normal
+38.5,High Fever,90,Female,26.2,Yes,No,Yes,Yes,No,Yes,Yes,90,Low
+39.9,High Fever,1,Male,29.7,Yes,No,Yes,Yes,Yes,No,Yes,93,Normal
+39.2,High Fever,36,Female,24.1,No,Yes,Yes,No,No,Yes,Yes,99,Low
+36.6,Normal,55,Male,26.4,No,Yes,No,Yes,No,No,Yes,77,Low
+37.4,Mild Fever,84,Male,30.1,Yes,Yes,Yes,No,No,No,Yes,85,Normal
+38.0,Mild Fever,92,Male,33.8,Yes,Yes,No,No,Yes,Yes,No,95,Low
+36.2,Normal,27,Female,32.9,No,No,No,No,No,Yes,No,97,Normal
+39.8,High Fever,13,Female,22.2,Yes,No,No,No,Yes,Yes,Yes,86,Low
+36.6,Normal,79,Male,27.6,No,Yes,Yes,No,No,Yes,Yes,96,High
+36.7,Normal,58,Male,18.6,Yes,Yes,No,Yes,No,No,Yes,80,Normal
+37.3,Mild Fever,94,Male,19.3,Yes,Yes,No,No,Yes,No,No,80,High
+36.4,Normal,81,Female,32.1,Yes,No,Yes,Yes,Yes,Yes,No,74,High
+39.8,High Fever,15,Female,20.6,Yes,No,Yes,Yes,Yes,Yes,No,68,Normal
+38.8,High Fever,50,Female,23.8,No,Yes,Yes,Yes,Yes,No,Yes,86,Low
+36.7,Normal,9,Female,19.7,No,Yes,Yes,Yes,No,Yes,No,66,Normal
+36.4,Normal,56,Male,23.5,No,No,No,No,Yes,Yes,No,88,Normal
+38.0,Mild Fever,79,Male,29.9,Yes,No,Yes,Yes,Yes,Yes,Yes,97,Low
+37.3,Mild Fever,8,Female,18.6,Yes,Yes,No,No,No,Yes,Yes,93,Normal
+38.4,High Fever,6,Male,19.1,No,No,Yes,Yes,Yes,Yes,No,88,High
+39.9,High Fever,5,Male,34.2,Yes,No,No,Yes,Yes,Yes,Yes,80,Low
+39.8,High Fever,25,Female,20.0,No,Yes,No,Yes,Yes,No,Yes,65,Low
+39.2,High Fever,32,Male,19.9,No,Yes,No,Yes,No,Yes,Yes,79,High
+39.3,High Fever,89,Male,19.7,No,Yes,No,Yes,Yes,Yes,Yes,78,High
+38.1,High Fever,70,Male,24.6,No,No,Yes,No,No,No,Yes,86,High
+39.5,High Fever,52,Male,22.9,Yes,No,No,Yes,No,Yes,No,63,Normal
+38.1,High Fever,89,Female,27.3,Yes,No,No,No,No,No,No,81,High
+37.6,Mild Fever,6,Male,24.0,Yes,Yes,No,Yes,No,Yes,No,80,High
+36.3,Normal,8,Male,30.8,Yes,No,No,Yes,Yes,No,Yes,61,Normal
+36.5,Normal,50,Female,19.0,No,Yes,Yes,Yes,No,No,No,91,Normal
+38.4,High Fever,76,Female,26.1,Yes,Yes,No,No,No,No,Yes,85,Low
+37.4,Mild Fever,96,Female,18.8,No,No,No,No,Yes,No,Yes,60,Low
+36.5,Normal,9,Male,28.5,Yes,No,Yes,Yes,No,No,Yes,90,Low
+38.4,High Fever,85,Female,19.5,No,Yes,Yes,Yes,No,Yes,Yes,93,High
+38.6,High Fever,51,Male,31.4,No,No,No,Yes,Yes,No,Yes,100,Normal
+38.2,High Fever,69,Female,28.8,Yes,No,No,No,Yes,Yes,Yes,92,Low
+37.5,Mild Fever,14,Female,29.5,No,No,No,Yes,No,Yes,No,64,High
+38.0,Mild Fever,17,Male,32.1,Yes,Yes,No,Yes,No,No,Yes,67,Normal
+39.3,High Fever,95,Female,34.1,No,Yes,No,Yes,No,No,Yes,84,Normal
+37.4,Mild Fever,77,Male,25.8,No,No,No,No,No,Yes,No,98,High
+39.6,High Fever,33,Male,27.9,Yes,No,No,No,No,No,No,60,Low
+36.5,Normal,51,Male,18.4,Yes,Yes,Yes,No,Yes,Yes,Yes,72,Low
+38.3,High Fever,98,Female,18.5,Yes,No,No,Yes,No,No,No,64,High
+37.3,Mild Fever,33,Male,21.3,Yes,No,No,Yes,No,Yes,No,83,High
+36.2,Normal,85,Male,33.4,Yes,Yes,Yes,No,Yes,Yes,No,60,High
+37.0,Normal,79,Male,29.5,Yes,No,No,No,Yes,No,No,89,Normal
+36.5,Normal,55,Male,34.4,No,No,No,Yes,No,Yes,Yes,60,High
+40.0,High Fever,10,Female,21.9,No,Yes,Yes,No,Yes,Yes,Yes,65,Low
+37.0,Normal,98,Female,26.5,Yes,No,Yes,Yes,Yes,Yes,No,67,High
+38.2,High Fever,74,Male,30.9,No,Yes,Yes,No,Yes,Yes,No,72,High
+36.4,Normal,56,Female,31.4,No,No,Yes,Yes,No,No,No,70,High
+36.9,Normal,92,Male,26.7,Yes,Yes,Yes,No,Yes,Yes,Yes,78,High
+38.3,High Fever,22,Female,24.1,Yes,No,Yes,Yes,No,Yes,No,93,Low
+38.7,High Fever,3,Female,21.2,Yes,No,No,Yes,No,Yes,Yes,71,High
+36.1,Normal,98,Male,18.3,No,No,No,Yes,Yes,Yes,No,81,Normal
+38.1,High Fever,78,Female,20.0,Yes,No,No,Yes,No,No,No,62,Normal
+38.8,High Fever,77,Female,21.9,No,No,No,Yes,No,No,Yes,87,High
+39.2,High Fever,8,Male,18.7,Yes,No,No,Yes,Yes,No,Yes,84,Normal
+37.4,Mild Fever,32,Female,26.4,Yes,Yes,No,No,No,Yes,No,71,High
+40.0,High Fever,29,Female,32.6,Yes,No,No,Yes,No,Yes,Yes,79,Normal
+39.6,High Fever,42,Male,33.1,Yes,No,No,No,No,Yes,Yes,82,Normal
+39.7,High Fever,6,Female,23.3,Yes,Yes,Yes,No,No,No,Yes,83,Low
+39.2,High Fever,41,Female,29.6,Yes,Yes,Yes,No,No,Yes,No,87,High
+39.1,High Fever,76,Female,29.4,Yes,No,No,No,Yes,No,No,69,Normal
+39.4,High Fever,23,Male,33.5,No,No,Yes,Yes,No,No,No,93,High
+38.3,High Fever,67,Male,30.1,Yes,No,Yes,No,No,No,No,85,Low
+37.7,Mild Fever,62,Female,23.5,No,Yes,Yes,Yes,No,No,Yes,75,High
+37.6,Mild Fever,69,Female,29.7,Yes,No,Yes,Yes,No,Yes,Yes,64,High
+38.9,High Fever,72,Female,34.1,Yes,Yes,Yes,No,Yes,Yes,Yes,98,High
+37.6,Mild Fever,97,Male,20.6,No,No,No,No,Yes,Yes,Yes,66,Low
+39.2,High Fever,13,Female,32.1,No,Yes,No,No,Yes,No,No,81,High
+36.8,Normal,37,Male,24.2,No,Yes,Yes,No,Yes,No,No,87,Normal
+37.1,Normal,79,Male,18.9,No,Yes,Yes,No,No,Yes,Yes,98,Normal
+39.0,High Fever,34,Female,29.3,No,Yes,No,Yes,Yes,Yes,Yes,73,Low
+39.6,High Fever,81,Male,18.9,No,No,Yes,No,No,Yes,Yes,71,Normal
+39.2,High Fever,66,Male,30.2,No,No,No,Yes,Yes,Yes,Yes,95,Low
+36.5,Normal,46,Female,31.2,Yes,Yes,Yes,No,No,Yes,Yes,78,High
+37.7,Mild Fever,19,Female,32.7,No,Yes,Yes,Yes,No,Yes,Yes,90,Low
+36.1,Normal,6,Male,18.6,Yes,No,No,Yes,No,Yes,No,84,Normal
+36.6,Normal,29,Male,25.4,Yes,No,No,Yes,No,Yes,Yes,72,High
+37.5,Mild Fever,66,Female,24.6,Yes,Yes,Yes,No,No,Yes,No,76,Low
+37.8,Mild Fever,79,Male,19.3,No,No,No,No,Yes,Yes,No,99,Normal
+38.4,High Fever,98,Female,22.5,Yes,No,Yes,No,Yes,No,Yes,60,High
+39.1,High Fever,99,Male,33.0,No,Yes,Yes,No,Yes,Yes,Yes,64,Normal
+38.9,High Fever,76,Male,28.5,No,No,Yes,Yes,No,No,Yes,95,Normal
+39.7,High Fever,39,Male,22.1,No,Yes,No,No,Yes,No,No,70,Normal
+38.7,High Fever,82,Male,24.7,Yes,No,No,No,Yes,No,No,85,Normal
+38.1,High Fever,10,Female,22.0,Yes,Yes,Yes,No,Yes,No,No,95,High
+38.2,High Fever,11,Male,32.4,No,No,Yes,Yes,Yes,Yes,No,83,High
+39.1,High Fever,60,Male,26.8,Yes,No,Yes,No,Yes,No,Yes,64,Normal
+36.8,Normal,45,Male,23.4,Yes,No,No,No,Yes,No,Yes,79,High
+39.9,High Fever,75,Female,19.1,Yes,No,No,Yes,Yes,Yes,Yes,98,Low
+39.7,High Fever,39,Male,29.3,No,Yes,No,Yes,No,Yes,No,76,High
+36.4,Normal,17,Female,27.1,No,No,Yes,No,Yes,No,No,76,High
+38.5,High Fever,47,Female,26.6,Yes,No,Yes,Yes,Yes,No,Yes,87,Low
+38.4,High Fever,27,Male,26.5,No,Yes,No,Yes,No,Yes,Yes,76,High
+38.0,Mild Fever,50,Female,31.8,No,No,No,Yes,Yes,Yes,Yes,68,Low
+37.7,Mild Fever,23,Female,33.3,Yes,Yes,No,Yes,No,Yes,No,60,Normal
+38.0,Mild Fever,24,Female,23.9,No,Yes,Yes,Yes,No,No,Yes,62,Low
+36.3,Normal,6,Male,19.8,No,No,Yes,Yes,No,No,Yes,77,Normal
+39.6,High Fever,49,Female,27.0,No,No,No,No,Yes,Yes,Yes,69,High
+38.3,High Fever,84,Male,34.0,No,Yes,Yes,Yes,No,No,No,78,Normal
+38.9,High Fever,94,Male,23.3,Yes,Yes,Yes,Yes,Yes,Yes,No,67,Normal
+39.8,High Fever,17,Female,21.8,Yes,Yes,Yes,No,Yes,No,No,85,High
+38.7,High Fever,58,Male,25.0,Yes,No,No,No,No,Yes,No,93,Low
+39.8,High Fever,94,Male,26.7,Yes,No,No,Yes,No,No,No,64,Low
+39.5,High Fever,5,Male,24.5,No,Yes,No,No,Yes,No,Yes,69,High
+39.0,High Fever,88,Female,24.5,Yes,No,Yes,Yes,Yes,Yes,No,96,High
+36.7,Normal,54,Female,26.1,Yes,Yes,Yes,Yes,No,Yes,No,61,Normal
+38.7,High Fever,37,Female,32.0,No,No,No,Yes,Yes,Yes,No,73,Normal
+39.0,High Fever,36,Female,24.2,No,No,Yes,Yes,No,No,Yes,94,Low
+36.1,Normal,31,Female,34.6,Yes,No,No,Yes,No,Yes,No,67,Low
+39.2,High Fever,34,Male,19.9,Yes,No,No,Yes,Yes,Yes,Yes,97,High
+38.8,High Fever,44,Female,32.6,Yes,Yes,No,Yes,Yes,No,No,89,Low
+37.2,Normal,52,Male,31.2,Yes,Yes,Yes,No,No,Yes,Yes,68,Low
+36.2,Normal,89,Male,32.9,No,Yes,No,No,No,No,No,73,High
+39.0,High Fever,98,Male,32.9,Yes,No,No,No,Yes,No,Yes,91,High
+39.7,High Fever,52,Female,34.4,Yes,Yes,Yes,Yes,No,Yes,Yes,74,Low
+37.6,Mild Fever,42,Female,19.2,No,Yes,No,Yes,No,Yes,Yes,60,High
+38.4,High Fever,49,Male,24.5,No,Yes,No,Yes,No,Yes,No,77,Low
+37.2,Normal,40,Male,31.4,Yes,Yes,No,Yes,No,Yes,No,96,High
+38.3,High Fever,31,Male,21.5,Yes,Yes,No,Yes,No,Yes,No,78,High
+38.7,High Fever,67,Male,20.3,Yes,Yes,Yes,Yes,No,Yes,Yes,100,Normal
+39.1,High Fever,53,Male,34.7,No,Yes,No,Yes,No,Yes,Yes,93,Normal
+36.4,Normal,67,Male,19.2,Yes,No,No,Yes,No,No,Yes,62,Normal
+39.1,High Fever,24,Male,23.1,No,No,Yes,Yes,No,Yes,Yes,80,Low
+38.0,Mild Fever,66,Female,26.3,No,No,Yes,No,Yes,No,No,60,Normal
+36.3,Normal,79,Female,29.1,Yes,Yes,Yes,Yes,Yes,No,Yes,77,Normal
+37.6,Mild Fever,3,Female,34.7,Yes,No,No,Yes,No,Yes,No,80,High
+39.1,High Fever,58,Female,19.0,Yes,No,Yes,Yes,Yes,No,No,68,Low
+36.1,Normal,2,Female,18.6,Yes,Yes,Yes,No,No,No,No,75,Normal
+38.7,High Fever,53,Female,24.6,No,No,No,No,Yes,Yes,Yes,91,High
+39.8,High Fever,7,Female,26.8,Yes,No,Yes,Yes,Yes,Yes,No,95,Low
+38.6,High Fever,1,Female,24.9,No,Yes,No,No,No,Yes,No,81,Low
+38.1,High Fever,10,Male,32.7,No,No,No,Yes,Yes,No,Yes,65,Low
+37.4,Mild Fever,28,Female,19.3,No,Yes,Yes,No,Yes,Yes,Yes,67,Normal
+37.7,Mild Fever,43,Female,18.1,No,Yes,No,Yes,Yes,No,Yes,86,High
+36.4,Normal,56,Female,25.4,No,No,Yes,No,No,No,No,79,Low
+37.8,Mild Fever,25,Female,28.3,No,No,No,Yes,No,No,No,98,Normal
+38.8,High Fever,38,Male,29.6,Yes,Yes,No,No,No,Yes,Yes,76,High
+36.1,Normal,65,Male,26.9,Yes,No,No,No,Yes,Yes,Yes,87,Low
+37.1,Normal,90,Male,18.7,No,Yes,No,Yes,No,Yes,No,65,Low
+39.1,High Fever,74,Male,29.8,Yes,Yes,No,No,Yes,Yes,No,70,Low
+39.8,High Fever,19,Female,24.4,Yes,Yes,Yes,No,No,No,No,63,Low
+39.4,High Fever,77,Female,19.7,Yes,No,Yes,Yes,No,Yes,No,82,Low
+39.4,High Fever,36,Female,20.5,No,No,No,No,Yes,Yes,Yes,70,Normal
+38.8,High Fever,54,Male,28.0,Yes,Yes,Yes,Yes,No,Yes,Yes,80,Normal
+38.6,High Fever,20,Male,22.1,Yes,Yes,No,No,No,No,No,75,Low
+39.4,High Fever,97,Female,30.4,No,No,Yes,Yes,Yes,No,No,76,High
+38.1,High Fever,16,Male,22.0,No,Yes,No,No,No,No,Yes,69,Low
+38.2,High Fever,1,Female,24.3,No,Yes,Yes,No,Yes,Yes,No,72,Normal
+39.3,High Fever,69,Male,33.1,No,No,Yes,No,No,Yes,Yes,61,High
+38.5,High Fever,89,Male,27.0,Yes,Yes,Yes,No,No,No,Yes,70,Low
+38.1,High Fever,95,Male,18.9,Yes,Yes,Yes,Yes,No,Yes,No,88,Low
+38.3,High Fever,59,Female,26.5,No,Yes,No,Yes,No,Yes,Yes,87,Normal
+39.3,High Fever,85,Male,18.1,No,No,No,No,Yes,No,No,94,Normal
+37.5,Mild Fever,22,Male,22.7,No,No,No,Yes,Yes,No,Yes,73,Low
+38.6,High Fever,18,Female,33.3,Yes,Yes,Yes,Yes,No,Yes,Yes,95,Low
+38.7,High Fever,94,Female,20.0,No,No,No,Yes,No,Yes,Yes,83,Low
+38.6,High Fever,81,Female,28.6,No,No,Yes,No,No,No,No,90,High
+36.3,Normal,57,Male,22.3,Yes,Yes,Yes,Yes,No,Yes,No,84,High
+39.2,High Fever,81,Female,32.7,No,Yes,No,No,No,Yes,Yes,62,Normal
+38.6,High Fever,15,Female,28.1,Yes,No,No,No,No,Yes,Yes,83,Low
+38.6,High Fever,7,Female,24.0,No,No,No,Yes,No,Yes,Yes,71,Normal
+39.3,High Fever,2,Male,22.7,Yes,No,Yes,No,No,No,Yes,90,High
+38.7,High Fever,98,Female,31.2,Yes,No,Yes,No,Yes,No,No,96,High
+38.5,High Fever,35,Male,20.6,Yes,Yes,No,Yes,Yes,No,No,96,Normal
+38.7,High Fever,100,Female,20.0,No,Yes,No,No,Yes,Yes,No,95,Low
+36.3,Normal,42,Male,26.0,No,No,No,Yes,Yes,Yes,Yes,72,High
+37.4,Mild Fever,73,Female,27.0,Yes,Yes,No,No,Yes,Yes,Yes,70,Normal
+36.5,Normal,63,Male,30.4,Yes,Yes,Yes,No,No,Yes,Yes,74,Normal
+36.1,Normal,16,Male,33.0,No,No,No,Yes,No,No,No,91,Low
+36.7,Normal,76,Male,31.6,No,Yes,No,Yes,No,No,Yes,60,High
+39.2,High Fever,4,Female,29.2,No,No,Yes,Yes,Yes,Yes,No,91,Normal
+37.4,Mild Fever,50,Female,34.5,No,Yes,Yes,No,Yes,No,No,95,Normal
+36.4,Normal,30,Female,24.3,No,Yes,Yes,Yes,No,No,No,87,Normal
+39.0,High Fever,47,Female,29.2,No,Yes,Yes,Yes,No,Yes,Yes,77,Low
+36.3,Normal,83,Female,20.1,Yes,No,No,Yes,Yes,Yes,No,72,Normal
+37.4,Mild Fever,5,Female,27.6,Yes,Yes,No,Yes,Yes,Yes,Yes,67,Low
+38.4,High Fever,14,Female,26.6,Yes,Yes,No,Yes,No,Yes,Yes,93,Low
+38.2,High Fever,51,Male,19.2,No,Yes,Yes,Yes,No,Yes,Yes,92,High
+37.0,Normal,34,Female,31.1,Yes,Yes,Yes,No,No,No,No,92,Low
+36.3,Normal,70,Female,34.1,No,No,No,Yes,No,Yes,Yes,70,Low
+36.1,Normal,6,Male,32.1,Yes,No,Yes,Yes,No,No,Yes,76,High
+38.0,Mild Fever,49,Male,20.9,No,Yes,Yes,Yes,Yes,Yes,No,89,Normal
+38.3,High Fever,23,Male,27.3,Yes,No,Yes,Yes,No,Yes,No,61,High
+37.9,Mild Fever,67,Female,29.7,No,Yes,Yes,Yes,No,Yes,Yes,92,Normal
+39.7,High Fever,62,Female,24.5,No,No,No,No,No,Yes,Yes,94,High
+39.3,High Fever,99,Male,22.5,Yes,Yes,No,No,No,No,Yes,96,Low
+38.7,High Fever,70,Female,20.7,Yes,Yes,Yes,Yes,Yes,Yes,No,90,Normal
+36.6,Normal,63,Female,29.4,Yes,Yes,Yes,No,No,No,Yes,79,Low
+36.6,Normal,23,Male,32.6,No,Yes,No,No,No,No,Yes,71,Low
+37.6,Mild Fever,41,Male,27.8,No,No,No,Yes,No,No,No,85,High
+36.2,Normal,37,Female,29.0,No,Yes,No,No,No,No,No,80,Normal
+38.8,High Fever,6,Male,34.6,Yes,No,No,No,No,Yes,Yes,83,Normal
+37.7,Mild Fever,83,Male,34.5,Yes,No,Yes,No,Yes,Yes,No,87,High
+37.0,Normal,92,Female,18.4,No,Yes,Yes,Yes,No,Yes,Yes,98,Low
+38.6,High Fever,67,Female,28.1,Yes,No,No,No,No,No,Yes,61,Low
+38.5,High Fever,99,Male,28.4,Yes,Yes,No,Yes,Yes,Yes,Yes,87,High
+38.8,High Fever,50,Male,26.5,No,Yes,No,Yes,No,No,Yes,71,Normal
+38.7,High Fever,84,Female,32.0,No,Yes,No,No,No,No,Yes,86,High
+37.9,Mild Fever,45,Female,29.8,Yes,No,Yes,No,Yes,Yes,Yes,96,Low
+37.5,Mild Fever,58,Female,33.1,No,No,No,Yes,Yes,Yes,Yes,70,High
+39.1,High Fever,58,Female,28.7,Yes,No,Yes,No,Yes,No,Yes,94,Low
+39.2,High Fever,40,Male,28.3,Yes,Yes,Yes,Yes,No,No,Yes,99,High
+36.6,Normal,7,Female,28.6,No,Yes,No,Yes,Yes,No,No,81,Normal
+38.7,High Fever,64,Male,18.3,No,No,Yes,Yes,No,Yes,Yes,79,High
+38.0,Mild Fever,82,Female,30.5,Yes,No,No,No,No,No,No,98,Normal
+37.1,Normal,29,Female,24.8,No,Yes,No,Yes,No,No,No,97,Normal
+36.0,Normal,93,Female,18.5,No,Yes,No,Yes,No,Yes,Yes,72,Normal
+39.6,High Fever,62,Female,26.8,No,Yes,Yes,Yes,Yes,Yes,No,61,Low
+37.6,Mild Fever,97,Female,18.1,Yes,No,No,No,No,No,Yes,78,High
+39.7,High Fever,20,Female,34.1,Yes,No,Yes,No,Yes,No,No,96,Low
+39.0,High Fever,28,Male,24.9,Yes,No,Yes,No,Yes,Yes,No,70,High
+37.2,Normal,22,Female,23.4,Yes,No,No,Yes,No,No,No,68,High
+37.3,Mild Fever,20,Female,27.7,No,No,Yes,No,Yes,Yes,No,75,Low
+39.5,High Fever,17,Male,25.1,Yes,Yes,Yes,No,Yes,Yes,Yes,73,Low
+36.9,Normal,93,Female,26.8,Yes,Yes,No,No,No,Yes,No,79,High
+37.0,Normal,37,Female,19.1,No,No,Yes,Yes,No,Yes,Yes,85,Low
+39.4,High Fever,50,Male,24.0,No,No,No,Yes,Yes,Yes,Yes,78,Low
+37.4,Mild Fever,88,Male,33.4,Yes,No,No,No,No,Yes,Yes,73,Normal
+39.6,High Fever,90,Male,31.1,No,No,Yes,Yes,No,No,No,66,Normal
+36.4,Normal,46,Male,28.2,Yes,No,Yes,No,No,No,No,66,Normal
+39.4,High Fever,82,Female,24.4,No,Yes,No,Yes,No,No,No,99,Normal
+38.8,High Fever,20,Female,27.2,Yes,No,Yes,No,Yes,No,Yes,92,Low
+38.9,High Fever,23,Female,30.7,No,Yes,Yes,No,No,No,Yes,91,Normal
+39.0,High Fever,63,Male,20.9,No,No,Yes,No,Yes,No,No,81,Normal
+39.2,High Fever,36,Female,32.6,Yes,No,No,No,Yes,No,No,65,Normal
+38.7,High Fever,68,Male,18.3,Yes,No,No,No,Yes,Yes,No,84,Low
+38.4,High Fever,82,Male,18.9,No,No,Yes,No,No,Yes,No,95,Low
+38.8,High Fever,14,Male,27.1,No,Yes,Yes,No,Yes,Yes,Yes,93,Normal
+36.4,Normal,63,Female,31.7,Yes,No,No,No,Yes,Yes,Yes,79,High
+38.1,High Fever,89,Female,20.8,No,No,Yes,No,Yes,No,No,84,Normal
+36.6,Normal,20,Female,24.4,Yes,No,Yes,Yes,No,No,Yes,62,High
+38.9,High Fever,46,Female,28.2,No,Yes,No,Yes,No,No,Yes,81,High
+38.6,High Fever,12,Female,28.2,No,No,Yes,No,No,No,No,90,Normal
+36.5,Normal,88,Female,21.7,No,Yes,No,Yes,No,Yes,Yes,86,Low
+38.5,High Fever,33,Female,33.8,No,No,Yes,No,Yes,No,Yes,78,High
+39.2,High Fever,20,Male,22.5,Yes,No,No,No,No,No,No,95,Low
+39.1,High Fever,68,Male,33.4,No,Yes,No,Yes,Yes,No,No,83,Low
+39.9,High Fever,51,Male,18.5,Yes,Yes,No,No,No,Yes,No,63,Low
+37.5,Mild Fever,46,Female,26.5,No,Yes,No,No,No,No,Yes,65,Low
+39.6,High Fever,51,Male,25.0,Yes,Yes,Yes,Yes,Yes,No,No,83,Normal
+36.6,Normal,98,Female,29.8,No,Yes,Yes,No,Yes,No,Yes,71,High
+37.2,Normal,48,Female,23.5,No,Yes,Yes,Yes,Yes,No,Yes,69,Normal
+38.9,High Fever,83,Female,34.5,Yes,Yes,Yes,Yes,Yes,Yes,No,69,Normal
+37.0,Normal,85,Female,23.8,Yes,No,No,Yes,No,Yes,No,61,High
+38.0,Mild Fever,22,Female,25.0,No,No,No,Yes,No,Yes,No,93,Low
+39.0,High Fever,74,Female,31.5,No,Yes,No,Yes,Yes,No,No,73,High
+37.9,Mild Fever,86,Female,26.1,Yes,No,Yes,No,No,Yes,Yes,99,Low
+39.5,High Fever,50,Male,29.9,Yes,Yes,No,No,Yes,No,Yes,98,Low
+38.1,High Fever,6,Female,26.8,No,Yes,No,No,No,No,Yes,88,Normal
+38.2,High Fever,2,Male,28.1,No,No,Yes,Yes,No,No,No,74,Normal
+36.9,Normal,74,Male,30.3,Yes,Yes,No,Yes,No,No,Yes,91,Low
+36.8,Normal,16,Female,27.5,No,Yes,No,Yes,Yes,Yes,Yes,77,Normal
+36.4,Normal,65,Female,34.2,Yes,No,No,Yes,No,Yes,Yes,92,High
+39.2,High Fever,76,Female,27.3,No,No,No,No,Yes,No,No,90,Normal
+39.5,High Fever,25,Male,34.6,Yes,Yes,Yes,Yes,No,No,No,82,Low
+39.9,High Fever,23,Female,32.8,No,Yes,No,Yes,No,No,No,67,Low
+36.5,Normal,42,Male,33.9,No,Yes,Yes,Yes,No,Yes,No,83,Low
+39.8,High Fever,8,Female,31.8,Yes,No,No,Yes,Yes,Yes,No,72,Normal
+37.9,Mild Fever,90,Female,34.5,Yes,Yes,Yes,Yes,Yes,No,Yes,94,Low
+36.9,Normal,18,Female,32.1,Yes,No,No,Yes,No,No,No,81,Normal
+39.8,High Fever,26,Female,24.7,Yes,No,No,No,Yes,Yes,Yes,87,High
+39.2,High Fever,8,Male,22.3,No,Yes,No,Yes,Yes,No,Yes,97,Normal
+38.4,High Fever,60,Male,33.4,No,No,Yes,Yes,Yes,No,Yes,61,Normal
+39.3,High Fever,29,Female,25.3,Yes,Yes,Yes,No,No,Yes,Yes,70,Normal
+37.5,Mild Fever,57,Female,35.0,No,Yes,Yes,Yes,Yes,Yes,Yes,80,Low
+36.3,Normal,47,Male,31.4,No,No,No,Yes,Yes,No,No,68,High
+38.6,High Fever,12,Male,33.4,Yes,Yes,No,No,Yes,No,Yes,80,Normal
+36.5,Normal,30,Female,21.7,No,Yes,Yes,No,Yes,No,Yes,80,High
+39.3,High Fever,42,Female,19.4,Yes,No,Yes,No,Yes,Yes,Yes,64,High
+37.5,Mild Fever,25,Female,27.9,Yes,Yes,Yes,Yes,Yes,No,No,63,High
+39.5,High Fever,28,Female,26.4,Yes,Yes,No,Yes,No,No,No,98,Low
+39.6,High Fever,19,Female,29.2,Yes,No,Yes,Yes,No,No,Yes,75,Low
+38.2,High Fever,21,Female,24.4,Yes,Yes,No,No,Yes,No,Yes,90,Normal
+37.7,Mild Fever,57,Male,20.0,Yes,No,Yes,No,Yes,Yes,No,61,High
+37.2,Normal,52,Female,32.5,No,No,No,Yes,No,Yes,Yes,97,High
+39.5,High Fever,1,Male,27.6,Yes,No,Yes,Yes,No,Yes,No,100,Normal
+36.1,Normal,49,Female,21.9,Yes,No,No,No,No,Yes,Yes,98,Low
+38.2,High Fever,88,Female,30.4,Yes,No,Yes,No,No,No,Yes,90,Low
+36.1,Normal,70,Male,22.5,No,No,No,Yes,No,No,No,81,Normal
+39.2,High Fever,63,Female,29.3,Yes,Yes,No,No,No,Yes,Yes,96,Low
+36.7,Normal,83,Male,28.2,Yes,Yes,No,Yes,No,Yes,No,87,High
+38.7,High Fever,94,Female,20.6,Yes,Yes,No,No,Yes,No,No,62,Low
+39.2,High Fever,92,Male,22.0,No,No,Yes,No,Yes,Yes,No,64,Normal
+38.9,High Fever,13,Male,23.1,No,Yes,No,Yes,Yes,No,Yes,86,Low
+36.2,Normal,49,Female,29.2,No,No,No,No,Yes,Yes,No,100,Low
+37.7,Mild Fever,94,Male,25.9,No,Yes,Yes,No,No,Yes,No,96,High
+37.6,Mild Fever,57,Female,28.7,No,Yes,No,No,Yes,No,Yes,61,Low
+38.3,High Fever,62,Female,19.4,No,Yes,No,No,No,Yes,Yes,81,Normal
+37.4,Mild Fever,13,Male,18.8,Yes,No,Yes,Yes,No,Yes,No,78,Normal
+39.3,High Fever,2,Female,27.0,Yes,No,Yes,No,No,No,Yes,95,Low
+39.5,High Fever,34,Male,28.8,No,Yes,No,Yes,Yes,Yes,Yes,63,Low
+36.3,Normal,66,Female,28.1,Yes,No,No,No,Yes,No,Yes,72,Low
+39.5,High Fever,82,Female,34.7,No,No,Yes,Yes,Yes,Yes,Yes,93,High
+37.5,Mild Fever,9,Male,20.2,Yes,Yes,No,Yes,No,No,Yes,79,Normal
+37.2,Normal,12,Female,18.2,Yes,No,No,No,No,Yes,Yes,99,Low
+39.9,High Fever,26,Male,20.9,No,No,Yes,No,No,No,No,100,Low
+39.0,High Fever,55,Male,25.7,Yes,Yes,Yes,No,Yes,Yes,Yes,80,High
+36.8,Normal,62,Female,25.7,No,No,Yes,No,No,Yes,No,93,Normal
+37.9,Mild Fever,33,Female,25.1,Yes,Yes,Yes,No,No,Yes,Yes,76,Normal
+37.8,Mild Fever,95,Male,22.8,Yes,Yes,Yes,No,Yes,No,Yes,94,High
+37.0,Normal,75,Female,23.2,Yes,No,No,Yes,No,Yes,No,73,High
+39.6,High Fever,15,Female,20.1,No,No,No,Yes,No,Yes,No,98,Normal
+39.7,High Fever,53,Female,33.8,No,Yes,No,No,Yes,No,Yes,70,Low
+37.5,Mild Fever,97,Male,22.7,Yes,Yes,No,No,Yes,Yes,Yes,72,Normal
+36.4,Normal,30,Female,22.4,Yes,No,No,Yes,Yes,Yes,Yes,66,Low
+38.6,High Fever,53,Female,32.8,Yes,No,Yes,No,No,Yes,No,91,Low
+39.7,High Fever,5,Male,30.5,Yes,No,No,Yes,Yes,No,Yes,68,Low
+38.1,High Fever,11,Male,27.7,Yes,Yes,No,No,Yes,No,No,77,Low
+37.8,Mild Fever,79,Female,29.0,No,Yes,No,No,Yes,No,No,64,Low
+39.4,High Fever,27,Female,24.3,Yes,Yes,No,No,Yes,No,No,65,High
+39.5,High Fever,27,Female,31.0,Yes,No,No,Yes,No,No,No,93,High
+37.8,Mild Fever,64,Female,22.9,No,Yes,Yes,Yes,Yes,No,Yes,88,Normal
+38.0,Mild Fever,13,Male,27.2,Yes,Yes,Yes,Yes,Yes,Yes,No,61,Low
+37.2,Normal,12,Female,23.2,No,Yes,No,No,No,No,No,94,High
+36.8,Normal,29,Male,18.0,No,No,No,No,No,No,Yes,64,High
+39.6,High Fever,96,Male,35.0,No,No,Yes,No,Yes,No,Yes,86,Low
+36.7,Normal,60,Male,32.8,No,No,No,Yes,No,Yes,No,78,Normal
+37.8,Mild Fever,60,Female,20.0,No,Yes,No,Yes,No,Yes,No,71,Normal
+36.1,Normal,37,Male,27.6,No,No,Yes,Yes,Yes,No,Yes,81,High
+38.1,High Fever,92,Female,25.9,No,Yes,Yes,Yes,Yes,Yes,Yes,100,High
+38.1,High Fever,36,Male,30.5,No,No,No,Yes,Yes,No,Yes,84,Normal
+39.7,High Fever,73,Female,33.8,Yes,Yes,Yes,Yes,No,Yes,No,89,Normal
+38.5,High Fever,16,Male,18.9,Yes,No,No,Yes,No,Yes,Yes,79,Low
+36.8,Normal,43,Male,23.5,No,Yes,No,Yes,Yes,No,Yes,62,Low
+36.8,Normal,65,Male,21.2,Yes,No,No,Yes,No,No,No,81,High
+37.4,Mild Fever,77,Female,34.9,Yes,Yes,No,No,No,No,No,72,Low
+37.1,Normal,64,Male,31.2,Yes,No,Yes,No,Yes,No,Yes,84,Low
+36.8,Normal,5,Female,19.5,No,No,Yes,Yes,No,Yes,No,72,Normal
+39.9,High Fever,43,Female,23.3,No,Yes,Yes,Yes,No,Yes,No,85,Low
+38.3,High Fever,33,Female,23.4,Yes,No,Yes,Yes,No,No,Yes,99,High
+37.1,Normal,43,Male,26.7,No,Yes,No,No,Yes,No,Yes,75,High
+37.5,Mild Fever,100,Male,31.6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,96,High
+38.8,High Fever,39,Male,30.0,No,No,Yes,Yes,Yes,No,No,79,Normal
+38.6,High Fever,50,Female,19.2,Yes,No,Yes,No,Yes,No,Yes,83,High
+37.2,Normal,13,Male,25.4,No,No,Yes,Yes,No,No,No,99,Low
+39.2,High Fever,11,Male,25.0,Yes,No,No,Yes,Yes,Yes,No,90,Normal
+40.0,High Fever,38,Female,19.5,No,Yes,No,No,No,Yes,Yes,86,High
+38.4,High Fever,29,Female,23.3,Yes,No,Yes,Yes,No,No,No,84,High
+39.4,High Fever,56,Female,24.7,Yes,Yes,Yes,Yes,Yes,No,No,68,Normal
+36.5,Normal,96,Female,24.8,Yes,Yes,No,No,Yes,Yes,No,84,Normal
+38.2,High Fever,18,Male,31.4,No,No,Yes,No,No,Yes,No,72,Normal
+36.3,Normal,45,Female,26.8,Yes,No,No,Yes,Yes,No,Yes,81,High
+37.1,Normal,6,Male,29.3,No,Yes,No,No,Yes,Yes,Yes,69,Low
+37.4,Mild Fever,98,Male,24.3,No,No,Yes,Yes,Yes,No,No,79,High
+39.3,High Fever,75,Female,20.8,No,No,Yes,Yes,No,No,Yes,64,Normal
+38.1,High Fever,4,Female,22.9,No,Yes,Yes,Yes,Yes,Yes,No,61,Normal
+39.8,High Fever,99,Female,28.1,Yes,Yes,Yes,Yes,No,No,No,64,High
+38.2,High Fever,91,Male,30.1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,99,High
+38.5,High Fever,2,Female,23.2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,62,Normal
+37.5,Mild Fever,21,Male,30.6,Yes,No,Yes,No,No,No,Yes,74,Low
+38.6,High Fever,31,Female,24.3,No,Yes,No,Yes,No,No,Yes,60,Low
+37.6,Mild Fever,75,Female,26.2,No,Yes,Yes,No,Yes,No,No,89,Normal
+38.2,High Fever,54,Male,20.6,No,No,No,No,No,No,No,64,High
+36.9,Normal,10,Female,27.5,Yes,No,Yes,Yes,No,Yes,No,82,Normal
+37.3,Mild Fever,91,Male,25.5,Yes,Yes,No,No,No,Yes,Yes,72,Normal
+38.6,High Fever,23,Female,22.2,No,No,Yes,No,Yes,No,No,90,High
+38.6,High Fever,1,Male,26.4,No,No,Yes,No,No,No,No,70,High
+39.3,High Fever,45,Female,28.6,No,No,Yes,No,No,Yes,No,97,Low
+40.0,High Fever,68,Male,29.2,Yes,Yes,No,Yes,No,Yes,No,98,Low
+38.4,High Fever,24,Male,27.9,Yes,No,Yes,Yes,No,No,No,62,Low
+36.5,Normal,2,Male,21.1,Yes,Yes,Yes,Yes,No,No,No,84,Low
+37.7,Mild Fever,62,Male,27.2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100,High
+37.9,Mild Fever,48,Female,35.0,No,Yes,No,Yes,No,No,No,70,Low
+37.9,Mild Fever,80,Male,22.1,Yes,Yes,No,No,No,No,No,99,Low
+36.0,Normal,49,Male,27.0,No,Yes,Yes,No,No,Yes,Yes,75,High
+36.0,Normal,32,Female,31.2,No,No,Yes,Yes,No,No,Yes,82,High
+38.4,High Fever,89,Female,26.4,Yes,No,Yes,Yes,No,Yes,Yes,92,Low
+37.3,Mild Fever,58,Female,26.8,Yes,No,Yes,Yes,No,No,Yes,89,High
+38.6,High Fever,13,Male,28.1,No,No,No,Yes,No,Yes,No,64,Low
+39.8,High Fever,46,Female,18.3,Yes,No,No,Yes,Yes,No,No,69,Normal
+37.7,Mild Fever,24,Female,30.6,Yes,Yes,Yes,No,No,No,No,93,High
+38.0,Mild Fever,73,Male,33.9,Yes,No,No,Yes,No,Yes,No,88,Low
+38.2,High Fever,90,Female,22.5,No,Yes,No,Yes,Yes,No,No,84,High
+38.8,High Fever,35,Female,25.4,No,Yes,No,Yes,Yes,No,No,61,Low
+38.4,High Fever,70,Male,21.6,Yes,No,Yes,Yes,No,No,Yes,76,High
+37.9,Mild Fever,90,Female,19.9,No,No,Yes,Yes,Yes,Yes,Yes,81,Normal
+37.8,Mild Fever,5,Female,27.8,Yes,Yes,No,No,Yes,Yes,No,69,High
+39.3,High Fever,9,Male,26.6,Yes,No,Yes,No,Yes,Yes,Yes,67,Normal
+38.8,High Fever,75,Female,25.3,No,No,Yes,Yes,Yes,No,No,73,Normal
+39.2,High Fever,10,Female,20.7,Yes,No,No,No,Yes,Yes,No,98,Low
+38.4,High Fever,99,Female,34.5,No,Yes,No,No,Yes,No,No,76,Low
+37.2,Normal,84,Female,25.7,Yes,No,No,Yes,No,No,Yes,61,Low
+36.1,Normal,46,Female,31.3,No,No,No,No,Yes,Yes,Yes,76,Normal
+39.0,High Fever,95,Female,20.3,Yes,No,Yes,No,Yes,Yes,Yes,70,Low
+39.8,High Fever,94,Female,32.5,Yes,Yes,No,No,Yes,No,Yes,77,Normal
+36.5,Normal,76,Male,21.0,Yes,Yes,Yes,Yes,Yes,No,Yes,77,Low
+37.8,Mild Fever,98,Female,19.4,Yes,Yes,Yes,No,No,No,No,100,High
+36.5,Normal,23,Male,34.2,Yes,Yes,No,Yes,No,Yes,No,88,Low
+39.9,High Fever,74,Male,30.8,Yes,Yes,Yes,Yes,Yes,Yes,No,67,Normal
+38.1,High Fever,40,Female,21.0,No,No,Yes,No,Yes,Yes,Yes,83,Low
+38.7,High Fever,68,Male,23.2,Yes,No,Yes,Yes,No,Yes,No,76,High
+38.3,High Fever,56,Female,30.6,Yes,Yes,Yes,No,No,No,No,91,Low
+37.0,Normal,98,Male,26.5,No,No,No,No,Yes,Yes,No,86,Low
+39.0,High Fever,47,Male,29.6,No,No,Yes,Yes,Yes,No,No,83,Normal
+36.9,Normal,67,Male,26.0,No,Yes,Yes,Yes,Yes,Yes,No,74,High
+38.7,High Fever,53,Female,26.4,Yes,Yes,No,No,No,No,Yes,79,High
+38.9,High Fever,13,Male,28.7,Yes,Yes,No,No,Yes,No,No,68,High
+39.1,High Fever,28,Female,24.1,Yes,Yes,No,Yes,No,Yes,Yes,87,Low
+39.9,High Fever,18,Female,25.0,Yes,No,No,No,Yes,Yes,Yes,77,Normal
+39.4,High Fever,29,Male,27.8,Yes,No,No,No,No,Yes,No,99,Low
+37.8,Mild Fever,89,Female,29.2,No,Yes,Yes,Yes,No,Yes,No,93,Normal
+38.7,High Fever,26,Female,29.5,No,Yes,Yes,No,No,No,Yes,63,High
+38.0,Mild Fever,100,Female,19.8,No,No,Yes,Yes,No,Yes,No,80,High
+39.6,High Fever,76,Female,26.6,No,No,Yes,No,Yes,No,No,93,Normal
+39.2,High Fever,40,Male,25.7,Yes,No,Yes,No,No,Yes,Yes,97,Low
+39.5,High Fever,49,Female,24.7,No,No,No,No,Yes,Yes,No,61,High
+38.3,High Fever,11,Male,32.0,No,No,Yes,No,Yes,No,Yes,75,Normal
+37.2,Normal,60,Male,19.5,No,No,Yes,Yes,No,Yes,Yes,72,Normal
+36.2,Normal,61,Male,30.0,Yes,Yes,No,Yes,Yes,Yes,No,96,Normal
+36.5,Normal,39,Female,31.3,No,Yes,No,Yes,No,No,Yes,63,Low
+37.4,Mild Fever,8,Female,34.9,Yes,No,No,No,No,Yes,Yes,68,Normal
+39.5,High Fever,12,Female,26.2,No,No,Yes,Yes,Yes,Yes,Yes,63,Low
+38.3,High Fever,32,Female,18.7,No,Yes,Yes,No,No,Yes,No,90,Low
+37.5,Mild Fever,62,Male,33.1,Yes,Yes,No,Yes,Yes,Yes,Yes,71,High
+38.0,Mild Fever,6,Male,34.6,No,Yes,No,Yes,No,No,No,76,High
+36.3,Normal,61,Male,27.3,Yes,Yes,Yes,No,Yes,No,No,95,Normal
+39.3,High Fever,72,Female,20.0,No,Yes,No,No,Yes,No,No,98,Normal
+38.4,High Fever,73,Male,22.3,No,Yes,No,Yes,No,No,Yes,90,Low
+36.9,Normal,73,Male,32.8,Yes,No,Yes,No,No,No,Yes,93,Low
+36.3,Normal,77,Male,29.6,Yes,Yes,Yes,No,Yes,Yes,Yes,67,High
+37.1,Normal,83,Female,34.1,No,No,No,Yes,No,No,No,94,Normal
+38.8,High Fever,90,Female,25.1,No,No,No,No,Yes,Yes,Yes,93,High
+38.2,High Fever,22,Male,21.8,Yes,Yes,No,No,Yes,Yes,Yes,63,High
+39.8,High Fever,73,Male,23.6,No,No,Yes,Yes,Yes,Yes,No,97,Normal
+37.8,Mild Fever,23,Female,24.5,No,Yes,Yes,No,No,Yes,Yes,65,High
+38.4,High Fever,11,Male,31.3,Yes,No,No,No,Yes,No,Yes,78,High
+36.8,Normal,81,Male,19.5,No,No,Yes,Yes,No,Yes,Yes,91,Low
+37.8,Mild Fever,27,Male,21.5,No,Yes,Yes,No,No,No,Yes,92,Normal
+39.0,High Fever,36,Male,28.2,Yes,No,Yes,Yes,Yes,Yes,No,73,High
+37.2,Normal,92,Female,18.5,No,Yes,Yes,No,Yes,No,No,82,Low
+38.9,High Fever,13,Female,34.6,No,Yes,No,Yes,No,Yes,Yes,83,High
+38.4,High Fever,45,Female,25.3,Yes,No,Yes,No,Yes,No,No,94,High
+36.7,Normal,37,Female,22.8,Yes,Yes,No,No,Yes,No,No,86,High
+38.2,High Fever,86,Male,28.8,No,No,Yes,No,Yes,Yes,No,96,Low
+39.6,High Fever,48,Male,20.2,No,Yes,Yes,Yes,Yes,Yes,No,97,High
+37.3,Mild Fever,46,Female,18.8,No,No,Yes,No,No,No,No,90,Normal
+37.2,Normal,13,Female,25.4,No,No,No,Yes,No,Yes,No,99,Low
+37.9,Mild Fever,57,Male,26.2,No,Yes,Yes,Yes,Yes,Yes,Yes,92,Normal
+36.6,Normal,66,Male,19.3,Yes,No,Yes,No,No,Yes,No,72,Low
+37.4,Mild Fever,34,Male,29.3,No,No,No,Yes,No,No,No,84,High
+38.9,High Fever,58,Female,28.7,Yes,No,No,No,Yes,Yes,Yes,72,Low
+36.6,Normal,96,Male,26.1,Yes,Yes,Yes,Yes,Yes,No,Yes,98,Normal
+36.6,Normal,25,Female,21.2,No,No,No,Yes,Yes,No,Yes,63,Normal
+36.6,Normal,89,Female,18.4,Yes,Yes,No,No,No,Yes,Yes,85,Low
+36.3,Normal,89,Female,25.8,No,No,Yes,Yes,Yes,No,No,73,Normal
+39.3,High Fever,68,Male,31.3,No,No,Yes,No,No,No,No,77,Low
+38.2,High Fever,94,Male,25.7,Yes,Yes,No,Yes,No,Yes,Yes,69,High
+39.8,High Fever,36,Male,22.5,Yes,Yes,Yes,No,Yes,No,No,83,High
+39.1,High Fever,75,Female,32.4,No,No,Yes,No,No,Yes,No,93,Normal
+37.5,Mild Fever,90,Male,19.1,No,No,No,Yes,No,Yes,No,66,High
+36.5,Normal,36,Female,23.7,Yes,No,Yes,No,No,No,Yes,63,Normal
+37.7,Mild Fever,67,Male,26.1,No,No,No,Yes,No,No,No,86,High
+39.2,High Fever,38,Male,18.5,No,No,No,No,No,Yes,No,74,Normal
+37.4,Mild Fever,87,Male,27.0,No,Yes,Yes,Yes,Yes,No,No,82,Low
+38.1,High Fever,79,Female,28.5,No,No,No,No,Yes,No,No,79,Normal
+39.4,High Fever,1,Male,20.4,Yes,Yes,Yes,Yes,No,Yes,Yes,71,Normal
+39.7,High Fever,47,Male,26.0,No,No,No,Yes,No,Yes,Yes,77,High
+36.4,Normal,46,Male,21.1,Yes,Yes,No,Yes,Yes,Yes,No,92,Low
+37.4,Mild Fever,28,Male,19.6,No,No,Yes,Yes,No,Yes,Yes,81,Low
+36.7,Normal,94,Male,30.8,Yes,Yes,Yes,Yes,Yes,Yes,Yes,77,High
+36.0,Normal,55,Male,24.3,Yes,No,Yes,No,Yes,No,No,78,Low
+39.2,High Fever,9,Female,23.8,No,Yes,No,Yes,Yes,No,No,66,High
+37.5,Mild Fever,83,Female,29.0,No,Yes,Yes,Yes,No,No,Yes,72,Normal
+36.1,Normal,46,Female,30.5,No,Yes,Yes,No,Yes,No,No,91,Low
+38.2,High Fever,74,Female,24.8,Yes,Yes,Yes,No,No,No,Yes,72,Low
+36.5,Normal,24,Female,20.1,Yes,No,No,No,No,Yes,Yes,78,Normal
+38.5,High Fever,69,Female,27.4,No,No,No,Yes,Yes,No,Yes,66,Low
+36.1,Normal,26,Female,22.9,Yes,Yes,Yes,No,No,No,No,78,Normal
+37.7,Mild Fever,46,Male,32.6,No,Yes,Yes,No,No,No,Yes,67,Low
+37.9,Mild Fever,1,Female,22.5,Yes,Yes,No,No,Yes,Yes,No,72,High
+38.4,High Fever,90,Male,23.5,No,No,Yes,Yes,Yes,Yes,No,71,Low
+37.7,Mild Fever,36,Male,23.9,No,Yes,Yes,Yes,Yes,Yes,No,81,High
+36.8,Normal,93,Female,19.2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,99,Normal
+37.4,Mild Fever,61,Female,26.4,Yes,Yes,Yes,Yes,Yes,No,Yes,96,Normal
+36.9,Normal,10,Male,28.6,Yes,No,No,Yes,No,Yes,Yes,97,Low
+39.2,High Fever,16,Female,33.0,Yes,No,No,Yes,No,Yes,No,61,Normal
+39.4,High Fever,75,Male,29.6,Yes,Yes,No,Yes,No,No,No,88,Low
+38.1,High Fever,99,Female,21.7,Yes,Yes,Yes,Yes,No,No,Yes,85,Low
+37.1,Normal,5,Female,18.1,No,Yes,Yes,Yes,Yes,No,No,88,High
+38.6,High Fever,45,Male,21.5,Yes,No,No,No,Yes,No,Yes,97,High
+37.3,Mild Fever,84,Female,32.1,No,Yes,No,Yes,Yes,No,No,84,Low
+37.6,Mild Fever,100,Female,25.3,No,No,Yes,No,No,No,No,87,Low
+39.5,High Fever,58,Male,20.8,Yes,No,Yes,No,Yes,No,Yes,94,Low
+38.6,High Fever,38,Male,19.6,No,No,No,No,No,No,Yes,64,High
+39.5,High Fever,54,Male,18.3,No,Yes,No,No,Yes,No,No,79,High
+36.9,Normal,90,Female,19.7,No,Yes,Yes,No,Yes,Yes,Yes,71,Normal
+38.9,High Fever,59,Female,31.6,Yes,Yes,No,No,Yes,Yes,Yes,60,Low
+36.9,Normal,2,Female,23.4,Yes,No,No,No,No,No,Yes,71,Low
+37.6,Mild Fever,22,Male,22.9,No,No,No,No,Yes,No,No,77,High
+36.1,Normal,17,Female,28.9,Yes,Yes,Yes,Yes,No,Yes,No,73,High
+37.9,Mild Fever,5,Female,20.2,No,Yes,No,Yes,Yes,Yes,No,85,High
+38.8,High Fever,82,Male,19.8,Yes,No,Yes,Yes,Yes,No,No,92,High
+39.3,High Fever,82,Male,31.1,No,Yes,Yes,No,No,No,Yes,61,High
+36.7,Normal,40,Female,20.0,Yes,Yes,No,No,No,No,No,69,Low
+36.3,Normal,74,Female,25.7,No,Yes,No,Yes,Yes,No,Yes,69,High
+39.0,High Fever,71,Female,22.8,No,Yes,Yes,No,No,No,Yes,75,High
+36.9,Normal,100,Male,28.7,No,No,No,No,Yes,Yes,No,95,Low
+36.7,Normal,80,Female,26.8,Yes,No,Yes,Yes,No,Yes,No,70,Low
+38.1,High Fever,50,Male,20.3,Yes,Yes,Yes,Yes,No,Yes,Yes,91,High
+39.4,High Fever,39,Male,25.6,Yes,Yes,No,Yes,No,Yes,Yes,91,High
+37.3,Mild Fever,28,Male,32.4,Yes,Yes,No,Yes,Yes,Yes,No,88,Normal
+36.1,Normal,92,Male,20.6,No,No,No,No,Yes,Yes,No,99,High
+39.9,High Fever,1,Female,26.2,Yes,No,No,No,No,No,Yes,71,Normal
+39.2,High Fever,64,Male,31.7,No,No,No,No,Yes,No,Yes,99,Low
+37.8,Mild Fever,35,Male,20.5,Yes,No,Yes,Yes,Yes,No,Yes,73,High
+38.8,High Fever,73,Male,27.2,No,Yes,No,No,No,Yes,Yes,84,High
+38.9,High Fever,42,Male,20.2,No,No,No,Yes,Yes,No,No,80,High
+40.0,High Fever,79,Female,25.8,No,Yes,No,Yes,No,Yes,Yes,61,High
+37.1,Normal,41,Male,29.8,No,No,Yes,Yes,No,No,Yes,66,Normal
+38.0,Mild Fever,6,Female,18.1,No,Yes,No,Yes,Yes,Yes,No,74,Low
+36.5,Normal,74,Male,18.9,Yes,Yes,No,No,No,No,Yes,93,High
+39.9,High Fever,70,Female,23.5,Yes,Yes,No,Yes,Yes,Yes,No,71,Low
+39.8,High Fever,77,Female,28.5,Yes,Yes,Yes,Yes,Yes,No,No,87,Low
+40.0,High Fever,66,Male,18.7,No,No,No,Yes,No,No,No,100,High
+36.5,Normal,77,Male,25.2,No,Yes,Yes,Yes,Yes,Yes,No,83,Low
+36.1,Normal,100,Male,34.5,No,No,Yes,Yes,Yes,No,Yes,68,High
+37.8,Mild Fever,33,Female,30.6,Yes,No,Yes,No,No,Yes,Yes,82,Low
+38.9,High Fever,39,Female,34.4,No,No,No,Yes,Yes,Yes,No,98,Normal
+38.0,Mild Fever,65,Female,27.1,Yes,Yes,No,Yes,Yes,No,Yes,65,Low
+39.2,High Fever,73,Male,27.5,No,Yes,Yes,Yes,No,Yes,No,89,Normal
+37.6,Mild Fever,89,Male,28.9,Yes,Yes,No,Yes,Yes,Yes,Yes,100,High
+37.7,Mild Fever,72,Female,29.4,Yes,Yes,Yes,No,Yes,Yes,Yes,66,Low
+36.5,Normal,50,Female,22.1,No,No,Yes,No,Yes,Yes,No,64,Normal
+37.4,Mild Fever,94,Male,18.7,Yes,No,Yes,Yes,No,No,No,63,Normal
+37.8,Mild Fever,69,Female,25.4,No,Yes,No,Yes,No,No,No,86,High
+38.7,High Fever,39,Female,28.9,No,Yes,Yes,Yes,Yes,No,No,95,Normal
+36.9,Normal,57,Male,31.9,Yes,No,No,Yes,No,No,Yes,81,Low
+39.4,High Fever,67,Female,26.8,No,Yes,Yes,Yes,No,Yes,No,70,Normal
+38.6,High Fever,92,Male,29.3,No,Yes,No,Yes,No,Yes,No,88,High
+37.0,Normal,63,Male,27.3,Yes,No,Yes,No,No,No,No,85,Normal
+40.0,High Fever,59,Female,33.5,No,No,No,Yes,Yes,Yes,No,80,Normal
+39.0,High Fever,50,Male,29.9,No,No,Yes,Yes,No,No,Yes,67,High
+39.2,High Fever,31,Female,19.9,Yes,No,Yes,No,Yes,Yes,No,87,Low
+38.5,High Fever,22,Male,29.3,Yes,No,No,Yes,Yes,Yes,No,65,High
+36.8,Normal,59,Female,27.1,Yes,Yes,No,Yes,Yes,Yes,No,74,Normal
+36.7,Normal,75,Male,25.7,No,No,No,No,No,Yes,No,76,Low
+36.6,Normal,33,Male,34.2,Yes,No,Yes,Yes,Yes,No,No,96,Normal
+37.3,Mild Fever,78,Female,33.9,Yes,No,Yes,No,No,Yes,Yes,68,Low
+38.0,Mild Fever,98,Male,22.7,Yes,Yes,Yes,No,No,Yes,No,91,Normal
+39.8,High Fever,72,Female,18.4,No,No,Yes,Yes,No,No,Yes,77,Low
+39.8,High Fever,95,Male,23.1,Yes,No,No,No,Yes,No,No,69,High
+38.1,High Fever,44,Female,34.3,No,Yes,No,No,No,Yes,No,79,High
+37.6,Mild Fever,99,Male,32.2,No,No,No,No,Yes,Yes,Yes,86,Low
+38.9,High Fever,66,Male,18.8,Yes,Yes,Yes,Yes,No,No,Yes,85,Low
+38.6,High Fever,89,Female,31.6,Yes,No,No,No,Yes,Yes,Yes,69,High
+37.3,Mild Fever,79,Male,30.7,No,No,No,No,No,Yes,No,77,High
+39.6,High Fever,56,Male,20.7,Yes,Yes,No,No,No,Yes,Yes,86,Normal
+36.9,Normal,88,Male,21.2,Yes,Yes,No,No,Yes,Yes,No,100,Normal
+38.0,Mild Fever,86,Male,18.6,Yes,Yes,Yes,No,Yes,Yes,Yes,76,Low
+36.8,Normal,97,Female,28.0,No,No,No,No,Yes,Yes,No,98,Normal
+36.4,Normal,94,Female,31.1,No,Yes,Yes,No,Yes,No,Yes,66,High
+39.6,High Fever,87,Male,18.6,No,No,No,Yes,No,Yes,Yes,86,Normal
+38.8,High Fever,30,Male,33.8,Yes,Yes,Yes,Yes,Yes,Yes,No,62,High
+38.1,High Fever,6,Female,20.4,Yes,Yes,No,No,No,No,No,93,Low
+38.8,High Fever,73,Female,26.8,Yes,Yes,No,No,No,No,No,75,Low
+36.7,Normal,15,Female,34.7,No,No,Yes,No,Yes,Yes,Yes,100,High
+37.9,Mild Fever,18,Male,23.0,Yes,Yes,Yes,Yes,No,No,Yes,71,Normal
+38.9,High Fever,32,Male,34.6,No,No,No,Yes,Yes,Yes,Yes,74,Normal
+38.4,High Fever,28,Male,19.0,No,Yes,No,Yes,No,Yes,No,63,Low
+39.9,High Fever,29,Male,28.1,Yes,Yes,Yes,No,Yes,No,Yes,98,Normal
+36.7,Normal,89,Male,34.4,Yes,No,No,Yes,Yes,No,No,79,Low
+38.9,High Fever,41,Female,29.9,No,Yes,Yes,No,Yes,No,No,91,Low
+37.7,Mild Fever,94,Male,33.4,No,Yes,No,Yes,Yes,Yes,No,81,Normal
+38.2,High Fever,29,Female,33.0,No,Yes,Yes,Yes,No,No,Yes,75,Low
+39.2,High Fever,31,Female,27.7,No,Yes,Yes,No,No,No,Yes,92,High
+37.9,Mild Fever,19,Female,34.5,No,Yes,Yes,No,Yes,Yes,Yes,60,High
+38.8,High Fever,19,Male,21.1,No,Yes,Yes,No,No,No,No,79,Low
+36.5,Normal,19,Female,23.3,No,No,Yes,No,No,No,No,75,Low
+37.4,Mild Fever,26,Male,19.3,Yes,No,Yes,Yes,Yes,No,No,76,Low
+39.3,High Fever,54,Male,32.7,Yes,No,No,Yes,Yes,No,Yes,100,Low
+39.0,High Fever,73,Female,34.1,No,No,Yes,Yes,No,No,No,95,Normal
+39.7,High Fever,2,Male,34.0,No,No,Yes,Yes,No,Yes,Yes,78,Low
+39.2,High Fever,91,Male,35.0,No,Yes,Yes,Yes,No,No,Yes,92,Normal
+37.0,Normal,27,Male,18.5,No,No,No,Yes,Yes,No,Yes,89,Low
+38.5,High Fever,82,Female,26.1,No,No,No,No,Yes,No,Yes,95,High
+39.9,High Fever,11,Female,29.0,No,Yes,No,No,No,Yes,Yes,72,Normal
+36.8,Normal,87,Male,34.3,No,No,Yes,No,No,No,No,92,High
+36.3,Normal,87,Female,24.6,Yes,Yes,No,No,Yes,Yes,Yes,75,Low
+38.0,Mild Fever,35,Female,28.5,Yes,Yes,No,Yes,No,Yes,No,62,High
+39.5,High Fever,31,Female,35.0,Yes,Yes,Yes,Yes,No,No,No,92,Normal
+37.9,Mild Fever,14,Female,30.8,Yes,Yes,Yes,Yes,No,No,No,72,Normal
+40.0,High Fever,95,Male,34.5,No,No,No,No,No,No,No,61,High
+39.0,High Fever,43,Male,21.1,No,Yes,No,No,No,No,No,99,Low
+38.7,High Fever,32,Male,23.3,No,Yes,Yes,No,Yes,No,Yes,90,Normal
+38.3,High Fever,60,Male,20.6,No,Yes,Yes,Yes,Yes,Yes,Yes,74,High
+39.4,High Fever,32,Female,22.9,Yes,Yes,No,Yes,No,No,Yes,81,High
+38.7,High Fever,48,Male,33.8,Yes,No,Yes,No,Yes,No,Yes,67,Low
+39.9,High Fever,72,Female,21.0,Yes,No,No,Yes,Yes,Yes,Yes,83,Normal
+39.0,High Fever,5,Male,21.5,No,Yes,No,Yes,Yes,No,Yes,78,Low
+39.4,High Fever,10,Male,23.7,Yes,No,Yes,Yes,Yes,Yes,No,77,Low
+39.3,High Fever,62,Female,18.9,No,Yes,Yes,Yes,No,No,Yes,74,High
+36.3,Normal,79,Female,20.2,No,Yes,Yes,Yes,Yes,No,No,95,Low
+38.6,High Fever,42,Female,28.7,No,No,Yes,No,Yes,No,No,100,Normal
+37.9,Mild Fever,89,Male,22.4,Yes,Yes,No,Yes,No,No,Yes,65,High
+38.7,High Fever,39,Male,28.4,Yes,No,Yes,No,Yes,Yes,Yes,62,Normal
+39.9,High Fever,80,Female,24.9,No,No,No,No,No,Yes,No,83,Low
+39.1,High Fever,52,Male,22.2,No,No,Yes,No,Yes,Yes,Yes,85,Normal
+39.0,High Fever,70,Male,20.3,No,Yes,No,No,No,Yes,Yes,92,High
+36.2,Normal,6,Female,31.8,No,Yes,Yes,Yes,No,Yes,Yes,88,Normal
+39.5,High Fever,31,Male,32.7,No,Yes,Yes,Yes,No,Yes,Yes,68,High
+37.3,Mild Fever,84,Female,28.0,No,Yes,Yes,Yes,No,Yes,No,93,Low
+36.7,Normal,90,Male,31.0,No,Yes,Yes,Yes,Yes,No,No,66,High
+37.9,Mild Fever,16,Female,22.5,Yes,No,Yes,Yes,No,No,No,71,Normal
+39.1,High Fever,79,Female,27.7,Yes,Yes,No,Yes,No,Yes,No,71,High
+37.7,Mild Fever,71,Female,25.7,No,Yes,No,No,Yes,No,No,89,Low
+38.4,High Fever,3,Male,22.7,Yes,Yes,No,No,No,Yes,No,86,High
+36.4,Normal,10,Male,18.6,No,Yes,No,No,Yes,No,Yes,88,Low
+38.9,High Fever,18,Male,25.6,Yes,No,Yes,Yes,No,Yes,Yes,100,Normal
+38.0,Mild Fever,75,Male,28.3,Yes,No,Yes,No,Yes,No,No,96,High
+38.4,High Fever,61,Male,31.2,Yes,No,No,No,No,No,Yes,80,Normal
+38.1,High Fever,47,Female,24.8,Yes,Yes,No,Yes,No,Yes,No,70,Normal
+39.3,High Fever,70,Male,25.2,Yes,Yes,No,No,Yes,Yes,Yes,87,Normal
+37.3,Mild Fever,85,Male,26.5,No,No,No,Yes,Yes,No,No,100,Low
+38.0,Mild Fever,86,Male,25.7,Yes,No,Yes,Yes,Yes,Yes,Yes,69,Normal
+39.7,High Fever,45,Female,30.9,No,Yes,Yes,Yes,No,Yes,Yes,99,High
+37.7,Mild Fever,31,Male,29.3,No,Yes,No,Yes,Yes,No,No,68,Normal
+38.2,High Fever,21,Female,20.2,No,No,No,Yes,No,Yes,No,93,High
+38.3,High Fever,89,Male,25.9,No,No,No,No,Yes,Yes,Yes,75,Low
+37.8,Mild Fever,80,Female,33.3,Yes,No,Yes,No,No,Yes,Yes,87,High
+37.7,Mild Fever,100,Female,33.3,No,No,No,Yes,Yes,Yes,No,89,Low
+38.5,High Fever,54,Male,34.6,Yes,No,No,Yes,Yes,Yes,Yes,98,Low
+38.0,Mild Fever,33,Male,26.4,Yes,No,Yes,No,No,No,No,67,Normal
+38.7,High Fever,28,Female,34.9,Yes,Yes,No,No,Yes,Yes,Yes,100,Low
+37.5,Mild Fever,80,Male,28.0,Yes,Yes,Yes,No,Yes,No,Yes,75,Low
+38.7,High Fever,50,Male,19.7,No,No,No,Yes,No,Yes,No,75,High
+39.3,High Fever,10,Male,22.4,Yes,Yes,No,No,Yes,Yes,Yes,89,High
+39.5,High Fever,80,Female,22.3,Yes,Yes,Yes,No,Yes,No,Yes,72,High
+37.0,Normal,3,Female,22.6,Yes,Yes,Yes,No,No,No,Yes,61,Normal
+36.2,Normal,43,Male,34.1,Yes,Yes,Yes,Yes,Yes,No,No,86,Normal
+39.6,High Fever,45,Male,29.9,No,Yes,Yes,No,No,No,Yes,62,High
+37.0,Normal,49,Male,23.6,No,Yes,Yes,Yes,Yes,Yes,Yes,100,High
+38.6,High Fever,10,Male,26.9,No,Yes,Yes,No,Yes,Yes,Yes,70,High
+37.9,Mild Fever,68,Female,24.0,No,Yes,Yes,No,Yes,No,No,60,Normal
+36.2,Normal,40,Female,32.1,No,No,Yes,Yes,Yes,No,No,89,Low
+38.2,High Fever,77,Female,33.3,Yes,No,Yes,No,No,Yes,No,66,High
+39.4,High Fever,6,Female,19.6,No,Yes,No,No,No,No,Yes,74,Low
+39.1,High Fever,51,Female,32.4,Yes,No,No,No,Yes,Yes,No,78,Low
+37.8,Mild Fever,6,Female,23.3,No,Yes,No,Yes,Yes,No,No,84,High
+36.5,Normal,57,Female,27.9,No,No,Yes,No,No,No,No,92,Low
+36.1,Normal,23,Female,18.6,Yes,Yes,Yes,Yes,No,Yes,No,88,Normal
+36.6,Normal,27,Female,26.2,Yes,No,Yes,No,Yes,Yes,No,68,Normal
+38.0,Mild Fever,47,Male,26.5,No,Yes,No,Yes,Yes,No,Yes,63,High
+37.9,Mild Fever,52,Male,33.9,Yes,Yes,Yes,Yes,Yes,No,No,90,Low
+37.0,Normal,11,Male,27.7,No,Yes,Yes,No,Yes,No,No,68,Normal
+36.3,Normal,11,Female,34.3,Yes,Yes,Yes,Yes,Yes,Yes,No,66,High
+37.6,Mild Fever,81,Male,32.9,Yes,Yes,No,Yes,Yes,Yes,Yes,89,Normal
+38.6,High Fever,86,Male,21.5,Yes,Yes,No,Yes,Yes,No,Yes,61,Low
+39.0,High Fever,62,Male,18.6,Yes,Yes,Yes,No,Yes,No,Yes,64,Normal
+36.5,Normal,14,Female,35.0,No,No,No,No,Yes,Yes,Yes,93,Normal
+39.8,High Fever,88,Male,19.7,Yes,Yes,No,Yes,No,Yes,No,86,Normal
+39.4,High Fever,70,Male,23.3,No,No,No,Yes,Yes,No,Yes,72,High
+36.2,Normal,65,Female,28.7,No,Yes,Yes,No,No,No,No,90,High
+38.9,High Fever,45,Male,24.9,No,Yes,No,Yes,Yes,Yes,No,76,Normal
+36.3,Normal,35,Male,18.0,Yes,No,No,No,Yes,No,No,80,Low
+39.5,High Fever,15,Male,19.9,Yes,Yes,Yes,No,No,Yes,Yes,74,Normal
+39.8,High Fever,41,Male,18.7,Yes,No,Yes,Yes,No,Yes,No,94,Normal
+37.0,Normal,53,Male,28.2,Yes,Yes,Yes,Yes,No,No,Yes,75,High
+37.6,Mild Fever,95,Female,25.6,No,Yes,Yes,Yes,No,Yes,No,72,High
+38.7,High Fever,29,Male,33.4,Yes,No,Yes,Yes,No,Yes,No,85,Normal
+39.6,High Fever,47,Male,18.4,No,No,No,Yes,No,No,No,92,Normal
+38.6,High Fever,4,Male,27.2,No,No,No,No,No,Yes,Yes,96,High
+38.2,High Fever,38,Male,34.5,No,No,Yes,No,Yes,No,Yes,62,Low
+37.0,Normal,49,Female,19.6,Yes,No,Yes,Yes,No,No,Yes,91,Low
+39.1,High Fever,97,Male,30.0,No,No,No,Yes,Yes,Yes,No,72,Normal
+39.3,High Fever,26,Male,34.8,No,Yes,No,Yes,No,Yes,Yes,61,High
+39.2,High Fever,9,Male,29.4,Yes,Yes,No,No,No,No,Yes,61,High
+38.2,High Fever,71,Male,28.5,Yes,No,Yes,Yes,Yes,No,Yes,61,Normal
+36.8,Normal,60,Female,24.9,Yes,No,Yes,Yes,No,No,Yes,71,High
+37.4,Mild Fever,34,Male,24.5,No,Yes,Yes,No,No,No,Yes,95,High
+38.6,High Fever,98,Female,22.0,No,Yes,No,Yes,Yes,Yes,No,67,Low
+39.6,High Fever,94,Female,29.3,No,No,Yes,Yes,Yes,Yes,Yes,71,Low
+38.8,High Fever,46,Male,20.9,Yes,No,Yes,No,Yes,Yes,No,88,High
+36.2,Normal,84,Male,29.7,Yes,Yes,No,Yes,Yes,No,Yes,70,Normal
+36.2,Normal,41,Female,27.4,No,No,Yes,No,Yes,Yes,Yes,89,Normal
+39.4,High Fever,62,Female,24.8,No,No,No,Yes,No,No,No,62,Low
+37.5,Mild Fever,25,Male,31.0,Yes,No,No,No,No,Yes,Yes,63,Low
+37.1,Normal,46,Male,22.9,No,No,No,No,Yes,No,No,92,Normal
+36.5,Normal,24,Male,18.7,Yes,Yes,No,Yes,Yes,Yes,Yes,62,Low
+37.9,Mild Fever,24,Female,28.8,Yes,No,No,No,No,Yes,No,72,Low
+38.2,High Fever,19,Female,28.8,No,No,No,No,No,No,No,100,High
+36.1,Normal,62,Male,23.5,No,Yes,No,Yes,Yes,Yes,No,79,Low
+38.0,Mild Fever,50,Male,31.4,No,No,No,No,No,Yes,No,82,Normal
+38.3,High Fever,41,Male,24.2,Yes,No,Yes,Yes,Yes,No,Yes,81,High
+38.3,High Fever,1,Male,23.1,Yes,No,Yes,No,No,Yes,No,86,High
+39.3,High Fever,9,Female,32.6,No,Yes,Yes,Yes,No,Yes,Yes,77,Low
+36.7,Normal,32,Male,19.4,No,No,No,No,No,No,Yes,70,Low
+38.6,High Fever,65,Male,32.7,Yes,Yes,Yes,No,No,Yes,Yes,95,High
+38.8,High Fever,38,Female,32.0,No,Yes,Yes,No,No,Yes,Yes,83,High
+39.7,High Fever,23,Male,30.4,Yes,No,Yes,Yes,No,Yes,No,90,Low
+38.7,High Fever,69,Male,29.7,No,Yes,No,No,No,No,Yes,74,Low
+37.8,Mild Fever,100,Male,27.2,Yes,Yes,No,No,No,No,Yes,93,Low
+39.1,High Fever,69,Male,23.9,Yes,No,Yes,No,Yes,Yes,No,64,Normal
+39.9,High Fever,70,Male,27.4,Yes,No,No,No,No,No,Yes,80,High
+36.7,Normal,82,Male,20.2,No,No,No,Yes,Yes,No,No,88,Normal
+36.5,Normal,88,Male,26.3,Yes,No,Yes,No,Yes,Yes,No,81,Normal
+38.2,High Fever,85,Female,34.4,No,No,No,Yes,Yes,Yes,Yes,66,Low
+37.6,Mild Fever,24,Male,30.2,Yes,Yes,No,No,No,No,Yes,88,Low
+37.4,Mild Fever,13,Female,26.8,No,Yes,Yes,Yes,No,Yes,No,97,Normal
+37.8,Mild Fever,40,Female,25.4,Yes,Yes,Yes,Yes,No,No,No,76,Normal
+37.0,Normal,15,Male,22.4,Yes,Yes,Yes,No,Yes,No,Yes,61,Normal
+36.2,Normal,71,Male,21.1,Yes,Yes,No,No,No,Yes,Yes,85,Normal
+39.9,High Fever,63,Female,20.6,Yes,Yes,Yes,No,No,No,Yes,79,Low
+38.9,High Fever,88,Male,30.7,No,No,Yes,Yes,No,No,Yes,88,High
+38.3,High Fever,92,Female,27.7,Yes,No,No,No,No,Yes,No,86,Low
+36.8,Normal,80,Female,22.9,No,Yes,Yes,Yes,No,No,Yes,83,Low
+38.0,Mild Fever,85,Male,25.0,No,Yes,Yes,No,Yes,No,Yes,87,Normal
+36.3,Normal,45,Male,25.4,No,Yes,No,No,No,No,No,97,Low
+38.9,High Fever,56,Male,31.4,No,No,No,Yes,No,No,No,96,High
+37.6,Mild Fever,33,Male,28.9,Yes,No,No,Yes,No,Yes,No,85,Normal
+36.0,Normal,13,Male,33.7,Yes,Yes,Yes,Yes,Yes,Yes,No,77,High
+37.8,Mild Fever,14,Male,28.5,No,Yes,Yes,Yes,No,No,Yes,82,Normal
+38.8,High Fever,14,Female,24.0,Yes,Yes,Yes,No,Yes,Yes,No,92,High
+37.6,Mild Fever,68,Male,32.0,No,Yes,No,Yes,No,No,No,98,Low
+38.4,High Fever,47,Female,33.5,No,Yes,No,Yes,No,Yes,No,86,Low
+39.9,High Fever,15,Male,34.2,Yes,Yes,No,No,Yes,No,Yes,74,High
+38.7,High Fever,27,Female,21.6,No,No,Yes,No,Yes,Yes,Yes,96,High
+39.8,High Fever,72,Male,30.2,Yes,No,Yes,Yes,No,Yes,Yes,87,High
+37.2,Normal,77,Male,31.6,No,Yes,No,No,Yes,No,Yes,86,Low
+39.4,High Fever,72,Female,24.2,Yes,No,Yes,No,No,No,Yes,68,Low
+39.6,High Fever,89,Female,26.6,Yes,Yes,No,Yes,Yes,Yes,No,96,Normal
+39.6,High Fever,93,Female,23.0,Yes,Yes,No,No,No,No,No,80,High
+37.9,Mild Fever,58,Male,34.6,No,No,No,No,No,No,Yes,81,Low
+38.9,High Fever,17,Male,29.8,No,Yes,Yes,No,Yes,Yes,Yes,66,Low
+38.9,High Fever,20,Male,27.8,Yes,No,No,No,No,Yes,Yes,96,Low
+39.9,High Fever,80,Male,22.5,No,Yes,No,Yes,No,No,Yes,95,Normal
+40.0,High Fever,95,Male,18.7,No,No,No,No,No,No,Yes,75,Normal
+39.1,High Fever,84,Male,33.1,Yes,Yes,Yes,Yes,No,No,No,84,Low
+39.9,High Fever,50,Male,24.3,Yes,Yes,Yes,Yes,No,No,No,68,Low
+39.9,High Fever,71,Male,27.6,No,No,Yes,No,No,Yes,Yes,90,Low
+37.3,Mild Fever,26,Male,31.5,No,No,No,No,Yes,Yes,No,87,Normal
+38.4,High Fever,76,Male,23.3,No,Yes,No,Yes,No,No,Yes,62,Normal
+38.1,High Fever,7,Male,29.6,No,Yes,No,Yes,No,No,No,87,Low
+39.8,High Fever,53,Male,19.8,Yes,Yes,Yes,Yes,Yes,No,No,63,Low
+38.2,High Fever,89,Female,24.3,No,No,No,No,No,No,Yes,82,High
+39.9,High Fever,42,Female,18.7,No,Yes,Yes,No,No,Yes,No,68,Normal
+36.8,Normal,12,Female,22.0,Yes,Yes,No,No,Yes,Yes,Yes,63,Normal
+37.1,Normal,92,Female,22.3,No,Yes,Yes,Yes,Yes,Yes,Yes,65,High
+39.1,High Fever,15,Female,34.2,Yes,Yes,No,Yes,Yes,No,Yes,94,Normal
+39.4,High Fever,35,Female,19.5,No,No,Yes,Yes,No,No,No,92,Normal
+39.8,High Fever,42,Male,34.8,Yes,No,No,No,No,No,No,62,Low
+37.9,Mild Fever,85,Male,29.1,No,Yes,Yes,No,No,No,No,78,Low
+36.2,Normal,84,Female,32.8,No,Yes,No,Yes,No,No,No,85,Low
+38.0,Mild Fever,34,Male,22.2,No,No,Yes,Yes,Yes,Yes,No,84,Low
+37.3,Mild Fever,66,Female,24.7,Yes,No,Yes,Yes,Yes,Yes,No,88,High
+38.8,High Fever,12,Female,24.5,No,Yes,No,No,No,Yes,No,80,Low
+36.1,Normal,89,Male,22.9,Yes,No,No,Yes,No,Yes,Yes,99,High
+38.7,High Fever,67,Female,34.5,Yes,Yes,Yes,Yes,Yes,No,No,73,Normal
+37.2,Normal,53,Male,27.9,No,No,No,No,Yes,Yes,Yes,64,High
+37.5,Mild Fever,37,Female,23.3,No,No,No,Yes,No,No,No,69,Normal
+39.9,High Fever,26,Female,31.7,Yes,No,Yes,Yes,Yes,No,No,99,Low
+36.3,Normal,29,Male,31.5,No,Yes,No,No,No,Yes,Yes,69,Normal
+37.1,Normal,14,Female,28.8,Yes,Yes,Yes,No,Yes,Yes,Yes,60,Normal
+39.7,High Fever,83,Female,28.6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,98,Normal
+36.6,Normal,25,Male,26.1,No,No,No,Yes,No,No,Yes,99,Normal
+37.9,Mild Fever,31,Female,34.9,No,No,No,No,Yes,No,Yes,98,High
+37.2,Normal,80,Female,24.4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,92,Low
+37.7,Mild Fever,56,Male,23.9,No,Yes,Yes,No,Yes,No,No,88,Low
+37.2,Normal,93,Male,33.6,Yes,No,Yes,Yes,No,Yes,No,72,Low
+38.9,High Fever,47,Female,29.5,Yes,Yes,No,No,No,Yes,No,96,Low
+38.2,High Fever,19,Male,30.9,Yes,No,Yes,No,Yes,Yes,No,89,Low
+39.8,High Fever,83,Male,26.8,Yes,No,No,No,No,Yes,Yes,63,Normal
+39.7,High Fever,96,Female,30.8,Yes,No,No,No,No,No,No,67,High
+38.9,High Fever,99,Female,24.5,Yes,Yes,Yes,No,No,Yes,Yes,62,Low
+36.6,Normal,43,Female,22.5,Yes,No,Yes,Yes,No,Yes,Yes,64,High
+38.2,High Fever,37,Female,23.4,No,Yes,No,Yes,No,Yes,Yes,98,Low
+39.3,High Fever,67,Male,20.1,No,No,No,Yes,No,Yes,Yes,82,Low
+37.8,Mild Fever,11,Male,26.5,No,Yes,Yes,Yes,No,No,Yes,82,Low
+37.9,Mild Fever,65,Female,34.9,Yes,No,Yes,Yes,Yes,No,Yes,96,Low
+37.6,Mild Fever,62,Female,28.3,Yes,Yes,No,Yes,No,Yes,Yes,99,High
+38.4,High Fever,13,Male,31.3,Yes,Yes,No,No,No,No,Yes,82,Normal
+36.2,Normal,94,Male,18.6,Yes,Yes,Yes,Yes,Yes,Yes,No,77,Normal
+36.5,Normal,26,Female,25.0,Yes,No,No,Yes,Yes,Yes,No,82,Normal
+39.3,High Fever,15,Female,29.8,Yes,Yes,No,Yes,No,No,No,79,Normal
+39.2,High Fever,89,Female,31.0,No,No,Yes,Yes,Yes,Yes,No,78,Normal
+36.4,Normal,82,Female,19.8,No,Yes,Yes,No,Yes,Yes,No,90,Normal
+37.8,Mild Fever,84,Male,26.3,No,Yes,Yes,No,Yes,Yes,No,86,High
+38.1,High Fever,42,Male,19.6,No,Yes,Yes,Yes,Yes,No,Yes,94,High
+37.6,Mild Fever,94,Female,26.7,No,No,No,No,No,Yes,Yes,93,Normal
+39.4,High Fever,34,Female,23.9,No,No,Yes,No,Yes,Yes,Yes,71,High
+38.5,High Fever,32,Female,20.2,Yes,No,Yes,Yes,No,No,Yes,72,Normal
+39.4,High Fever,63,Male,28.5,No,No,No,No,Yes,No,Yes,60,High
+38.0,Mild Fever,9,Female,29.7,No,No,No,Yes,No,No,Yes,98,Normal
+39.1,High Fever,62,Male,25.0,Yes,No,Yes,No,No,No,Yes,86,High
+39.3,High Fever,69,Female,25.0,Yes,Yes,Yes,No,Yes,Yes,No,85,Low
+39.7,High Fever,81,Female,29.1,Yes,No,No,No,Yes,No,No,76,Normal
+37.6,Mild Fever,22,Male,32.1,Yes,No,Yes,Yes,Yes,No,Yes,60,Normal
+37.0,Normal,38,Female,21.9,Yes,No,Yes,Yes,Yes,No,No,86,High
+39.6,High Fever,31,Female,27.5,No,Yes,No,Yes,Yes,Yes,No,65,High
+36.3,Normal,69,Male,23.6,Yes,No,No,Yes,Yes,Yes,No,73,Low
+39.0,High Fever,19,Male,32.7,Yes,No,Yes,No,Yes,Yes,Yes,98,Normal
+37.5,Mild Fever,69,Male,30.6,Yes,Yes,No,Yes,Yes,Yes,No,75,Normal
+38.9,High Fever,20,Male,19.5,Yes,No,Yes,Yes,Yes,No,Yes,82,High
+38.5,High Fever,62,Male,19.8,Yes,Yes,Yes,Yes,Yes,Yes,No,61,High
+37.7,Mild Fever,61,Male,21.1,No,Yes,Yes,Yes,Yes,Yes,No,62,Low
+37.5,Mild Fever,70,Female,33.7,Yes,Yes,No,Yes,No,Yes,No,74,High
+38.7,High Fever,68,Female,21.8,No,No,Yes,Yes,Yes,No,Yes,65,Normal
+39.1,High Fever,27,Female,29.0,No,No,Yes,Yes,No,No,Yes,74,Low
+36.6,Normal,76,Female,22.1,Yes,Yes,Yes,Yes,No,No,Yes,67,Normal
+36.1,Normal,26,Male,24.6,No,Yes,No,Yes,No,No,Yes,100,Low
+37.3,Mild Fever,29,Male,31.3,No,Yes,No,Yes,Yes,No,No,63,Normal
+38.6,High Fever,69,Female,20.4,Yes,No,Yes,Yes,Yes,No,No,70,High
+36.4,Normal,13,Male,32.3,No,No,Yes,No,Yes,No,No,99,High
+37.2,Normal,70,Female,30.4,Yes,Yes,Yes,No,No,No,Yes,98,High
+38.4,High Fever,73,Male,31.0,No,No,Yes,No,No,Yes,Yes,72,High
+37.4,Mild Fever,19,Female,30.7,No,No,No,No,Yes,No,No,98,Low
+39.2,High Fever,45,Male,22.8,Yes,No,Yes,No,Yes,Yes,Yes,98,High
+39.4,High Fever,48,Female,30.5,Yes,Yes,Yes,Yes,Yes,No,No,69,Normal
+39.2,High Fever,40,Female,22.5,No,No,Yes,Yes,Yes,No,No,81,High
+39.2,High Fever,40,Female,31.8,Yes,Yes,No,No,Yes,Yes,Yes,70,Normal
+39.5,High Fever,79,Male,29.7,Yes,Yes,Yes,No,No,No,Yes,93,Normal
+37.1,Normal,93,Female,26.6,Yes,Yes,Yes,No,No,Yes,Yes,80,Low
+38.6,High Fever,90,Male,33.7,Yes,No,No,Yes,No,No,Yes,74,High
+37.6,Mild Fever,95,Male,30.7,Yes,No,No,Yes,Yes,Yes,Yes,91,Low
+39.6,High Fever,89,Female,18.0,Yes,Yes,Yes,Yes,No,Yes,Yes,66,Low
+37.9,Mild Fever,96,Female,20.8,Yes,Yes,No,Yes,No,No,Yes,92,Low
+38.4,High Fever,55,Female,33.1,Yes,Yes,Yes,No,Yes,No,Yes,75,Low
+37.0,Normal,57,Male,32.9,No,Yes,No,Yes,No,No,No,88,Low
+38.6,High Fever,46,Female,26.3,Yes,Yes,No,No,No,Yes,Yes,82,High
+36.5,Normal,50,Male,22.5,No,Yes,Yes,Yes,Yes,Yes,Yes,72,High
+38.0,Mild Fever,96,Female,21.7,Yes,No,Yes,No,Yes,Yes,Yes,75,High
+37.4,Mild Fever,60,Male,29.2,No,No,No,Yes,No,Yes,Yes,63,High
+38.2,High Fever,100,Female,19.0,No,No,No,Yes,Yes,Yes,Yes,89,Normal
+39.4,High Fever,7,Male,32.2,No,Yes,Yes,Yes,Yes,No,Yes,87,High
+39.0,High Fever,89,Female,32.4,Yes,Yes,Yes,No,No,Yes,Yes,75,High
+38.6,High Fever,50,Male,25.0,Yes,Yes,Yes,No,No,No,No,77,High
+39.9,High Fever,6,Male,29.7,No,Yes,No,Yes,Yes,No,No,80,Normal
+38.3,High Fever,62,Female,26.1,Yes,No,No,Yes,No,Yes,Yes,76,Normal
+38.1,High Fever,43,Male,30.9,Yes,No,No,Yes,No,No,No,65,Normal
+39.0,High Fever,27,Male,24.4,Yes,No,No,Yes,No,No,Yes,96,Low
+37.2,Normal,98,Male,34.5,Yes,Yes,Yes,No,Yes,No,No,61,High
+36.9,Normal,43,Male,23.9,No,Yes,Yes,No,Yes,No,Yes,99,Low
+38.8,High Fever,88,Female,21.1,No,No,Yes,No,No,Yes,No,67,Normal
+37.1,Normal,85,Female,18.6,Yes,No,No,Yes,No,Yes,No,97,Low
+37.6,Mild Fever,26,Female,32.1,Yes,Yes,No,No,Yes,Yes,Yes,97,High
+36.3,Normal,72,Female,33.7,Yes,Yes,Yes,Yes,No,Yes,Yes,80,Normal
+37.6,Mild Fever,24,Female,34.1,No,Yes,Yes,No,Yes,No,No,70,Normal
+37.0,Normal,60,Female,28.8,Yes,Yes,No,No,Yes,Yes,No,63,High
+36.7,Normal,27,Female,23.1,Yes,No,Yes,No,No,Yes,Yes,75,Low
+36.4,Normal,77,Female,30.3,Yes,Yes,Yes,No,No,Yes,Yes,74,Normal
+36.7,Normal,63,Male,29.1,No,Yes,No,No,No,Yes,Yes,93,High
+37.6,Mild Fever,30,Male,27.0,Yes,No,No,No,Yes,No,No,67,Normal
+36.6,Normal,13,Female,28.1,Yes,No,No,No,No,Yes,No,85,Normal
+37.7,Mild Fever,21,Female,30.7,Yes,No,No,No,No,No,No,71,Normal
+38.4,High Fever,41,Female,25.3,Yes,Yes,Yes,No,Yes,No,No,75,High
+39.1,High Fever,5,Male,21.3,No,No,Yes,No,Yes,No,No,79,Normal
+36.8,Normal,15,Female,27.5,No,Yes,Yes,Yes,Yes,No,Yes,71,High
+36.5,Normal,78,Male,32.3,Yes,Yes,Yes,Yes,No,No,Yes,88,High
+39.4,High Fever,80,Female,20.9,Yes,Yes,No,No,Yes,No,Yes,71,Low
+39.6,High Fever,74,Female,23.7,No,No,Yes,Yes,Yes,Yes,Yes,92,High
+38.7,High Fever,7,Female,29.4,Yes,No,Yes,No,No,Yes,Yes,67,Normal
+37.5,Mild Fever,38,Female,30.8,No,Yes,No,Yes,Yes,No,Yes,90,High
+38.9,High Fever,43,Female,20.0,No,Yes,Yes,No,Yes,No,No,77,Low
+36.2,Normal,53,Male,34.0,Yes,No,No,No,Yes,Yes,No,89,Normal
+37.2,Normal,33,Male,31.3,Yes,No,No,No,No,No,Yes,60,Low
+37.2,Normal,16,Female,27.0,Yes,Yes,Yes,Yes,No,No,No,85,Low
+37.1,Normal,22,Female,18.1,Yes,No,Yes,Yes,No,Yes,No,94,High
+38.3,High Fever,75,Female,24.4,Yes,No,No,No,No,Yes,Yes,86,Low
+39.0,High Fever,93,Female,18.4,No,Yes,Yes,No,Yes,Yes,No,74,High
+38.1,High Fever,62,Female,30.0,No,No,Yes,Yes,Yes,No,Yes,93,Low
+36.4,Normal,11,Male,31.2,Yes,Yes,No,No,No,No,Yes,86,Normal
+38.5,High Fever,16,Male,28.1,No,Yes,Yes,No,No,Yes,Yes,80,Normal
+36.6,Normal,16,Male,28.0,Yes,No,Yes,No,No,Yes,No,74,High
+39.2,High Fever,54,Male,20.6,Yes,Yes,No,No,No,No,Yes,86,Low
+37.1,Normal,15,Male,32.3,Yes,No,Yes,Yes,Yes,Yes,No,60,High
+39.7,High Fever,87,Female,26.1,Yes,No,No,No,No,No,No,68,Normal
+39.1,High Fever,13,Male,26.5,Yes,Yes,No,No,No,No,No,94,Normal
+39.6,High Fever,79,Female,25.6,Yes,No,No,No,Yes,Yes,Yes,70,Low
+37.7,Mild Fever,47,Male,34.4,No,Yes,No,No,No,No,Yes,70,Normal
+37.6,Mild Fever,33,Male,27.9,No,Yes,No,No,No,No,Yes,88,Normal
+38.1,High Fever,66,Female,28.6,Yes,Yes,No,Yes,No,Yes,Yes,83,Low
+36.6,Normal,88,Male,18.2,Yes,Yes,No,Yes,Yes,Yes,No,66,Low
+39.6,High Fever,30,Female,30.3,No,Yes,Yes,No,No,No,No,89,Normal
+39.3,High Fever,58,Female,20.3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,80,Low
+36.9,Normal,34,Male,23.7,Yes,Yes,Yes,Yes,No,Yes,No,61,Low
+37.4,Mild Fever,65,Male,26.2,Yes,Yes,Yes,No,Yes,Yes,Yes,78,High
+39.3,High Fever,46,Female,18.7,Yes,Yes,No,Yes,Yes,No,No,88,Normal
+39.2,High Fever,79,Male,25.4,Yes,Yes,Yes,Yes,No,Yes,No,87,High
+39.2,High Fever,55,Female,25.6,No,No,Yes,No,No,Yes,Yes,76,Low
+38.7,High Fever,58,Female,23.7,Yes,No,No,No,Yes,No,No,79,High
+36.3,Normal,36,Female,21.2,Yes,Yes,Yes,No,No,No,Yes,89,High
+39.9,High Fever,20,Male,34.7,Yes,No,Yes,Yes,No,No,Yes,90,Normal
+37.4,Mild Fever,2,Male,29.0,No,No,No,Yes,No,Yes,No,97,High
+39.9,High Fever,55,Female,30.4,No,Yes,Yes,Yes,Yes,No,Yes,78,High
+38.7,High Fever,4,Female,25.1,Yes,No,No,No,Yes,Yes,No,88,Low
+37.1,Normal,43,Male,22.7,No,Yes,Yes,No,Yes,Yes,No,66,Normal
+38.4,High Fever,72,Male,31.3,Yes,Yes,Yes,No,No,Yes,No,60,High
+36.5,Normal,45,Male,18.3,Yes,Yes,Yes,Yes,No,No,No,91,High
+36.5,Normal,25,Female,30.2,No,No,No,No,No,Yes,No,94,Normal
+39.0,High Fever,65,Female,31.8,No,No,Yes,Yes,Yes,No,No,69,High
+39.9,High Fever,15,Female,23.7,Yes,No,No,No,No,Yes,Yes,64,High
+39.8,High Fever,56,Male,21.9,No,Yes,No,Yes,No,Yes,No,65,High
+38.9,High Fever,35,Male,24.5,No,Yes,No,No,No,No,Yes,62,High
+40.0,High Fever,45,Male,30.9,No,Yes,No,No,No,No,No,95,Low
+37.6,Mild Fever,42,Female,21.1,No,No,No,Yes,Yes,Yes,No,91,High
+36.1,Normal,4,Female,30.0,Yes,No,No,Yes,Yes,Yes,Yes,88,High
+39.2,High Fever,94,Female,27.6,No,Yes,No,Yes,No,No,Yes,83,High
+40.0,High Fever,74,Female,19.6,Yes,Yes,Yes,Yes,No,Yes,Yes,98,Normal
+36.8,Normal,81,Male,32.7,No,Yes,No,Yes,Yes,Yes,No,98,Normal
+38.7,High Fever,16,Female,34.4,No,No,No,Yes,Yes,Yes,No,63,Normal
+36.2,Normal,60,Female,25.8,No,Yes,Yes,Yes,No,No,Yes,64,High
+39.6,High Fever,34,Female,22.6,No,Yes,Yes,No,Yes,No,Yes,64,Low
+36.5,Normal,57,Female,34.2,Yes,No,Yes,No,Yes,No,Yes,68,High
+39.4,High Fever,44,Male,20.3,Yes,No,No,No,No,No,Yes,76,Low
+36.1,Normal,19,Male,33.9,No,Yes,No,Yes,No,Yes,Yes,97,Low
+38.8,High Fever,91,Male,31.6,Yes,No,Yes,No,Yes,Yes,No,64,Normal
+37.9,Mild Fever,69,Male,19.5,Yes,Yes,No,Yes,No,Yes,No,85,Low
+39.5,High Fever,52,Female,20.5,No,No,No,No,No,Yes,No,76,Low
+37.5,Mild Fever,5,Female,31.5,Yes,Yes,No,Yes,No,Yes,Yes,72,High
+39.2,High Fever,64,Female,27.0,Yes,Yes,Yes,No,No,Yes,No,64,Normal
+36.1,Normal,95,Female,33.1,No,No,No,No,No,No,Yes,85,Normal
+37.2,Normal,76,Female,22.5,Yes,No,Yes,No,No,No,No,84,Low
+37.2,Normal,98,Male,24.4,Yes,No,No,No,Yes,Yes,Yes,87,Low
+38.1,High Fever,22,Female,32.5,No,No,Yes,No,No,No,No,76,Normal
+37.1,Normal,39,Female,33.3,Yes,No,No,No,No,Yes,Yes,61,Normal
+38.0,Mild Fever,59,Female,29.3,Yes,No,Yes,Yes,Yes,Yes,Yes,62,High
+37.9,Mild Fever,41,Female,28.1,No,No,No,Yes,Yes,Yes,Yes,87,Normal
+36.3,Normal,33,Female,20.8,Yes,No,Yes,No,No,No,Yes,94,High
+37.5,Mild Fever,7,Male,32.6,Yes,Yes,No,No,Yes,No,Yes,65,Low
+36.9,Normal,7,Male,23.8,No,No,No,Yes,Yes,Yes,Yes,74,High
+39.0,High Fever,37,Male,19.8,Yes,Yes,Yes,Yes,No,No,No,88,Normal
+37.9,Mild Fever,75,Male,22.1,No,No,No,Yes,No,No,No,76,Low
+37.6,Mild Fever,81,Female,23.6,No,No,No,No,Yes,No,Yes,76,High
+39.3,High Fever,73,Male,19.6,Yes,No,No,Yes,Yes,No,No,73,Low
+36.7,Normal,25,Male,28.7,No,Yes,No,Yes,No,No,Yes,98,Low
+38.2,High Fever,79,Male,33.7,Yes,Yes,Yes,No,No,No,No,94,High
+38.1,High Fever,98,Female,23.7,Yes,Yes,No,No,No,No,No,84,High
+39.6,High Fever,79,Female,26.8,Yes,No,No,No,Yes,Yes,Yes,80,Low
+36.8,Normal,41,Male,27.9,No,Yes,Yes,No,No,No,Yes,71,Normal
+37.9,Mild Fever,74,Female,18.8,No,Yes,No,No,No,No,Yes,67,High
+37.2,Normal,35,Male,20.7,Yes,No,Yes,Yes,No,Yes,Yes,64,Low
+39.0,High Fever,11,Male,29.9,No,No,No,Yes,Yes,Yes,Yes,66,Low
+38.4,High Fever,52,Female,19.4,Yes,Yes,No,Yes,No,No,No,88,High
+37.5,Mild Fever,81,Female,33.7,Yes,Yes,No,Yes,Yes,No,No,64,High
+39.0,High Fever,2,Male,33.7,Yes,No,Yes,No,No,Yes,No,95,Low
+36.1,Normal,29,Male,34.4,Yes,No,No,No,Yes,Yes,Yes,85,Low
+38.4,High Fever,49,Female,18.8,Yes,Yes,Yes,No,Yes,No,Yes,85,Low
+36.1,Normal,15,Female,23.0,Yes,No,Yes,No,Yes,No,No,89,High
+39.8,High Fever,6,Female,27.6,No,Yes,No,Yes,Yes,Yes,Yes,78,Low
+39.0,High Fever,48,Female,30.7,Yes,No,Yes,No,Yes,Yes,Yes,64,Low
+37.4,Mild Fever,86,Male,26.8,Yes,Yes,No,Yes,No,Yes,No,94,Low
+39.8,High Fever,74,Male,32.1,Yes,No,Yes,Yes,No,No,No,66,Low
+36.1,Normal,78,Female,21.5,No,Yes,No,No,No,No,No,67,Normal
+36.4,Normal,31,Male,26.7,No,No,No,No,No,No,Yes,98,Normal
+37.5,Mild Fever,91,Female,19.2,Yes,Yes,Yes,No,Yes,No,No,87,Normal
+37.5,Mild Fever,47,Female,29.0,Yes,Yes,No,Yes,Yes,Yes,Yes,94,Normal
+39.9,High Fever,59,Male,22.1,Yes,Yes,Yes,No,Yes,Yes,Yes,67,Normal
+36.9,Normal,74,Female,18.1,Yes,Yes,Yes,Yes,Yes,No,No,83,High
+36.1,Normal,8,Female,29.6,Yes,Yes,No,No,Yes,Yes,Yes,97,High
+38.8,High Fever,87,Female,25.2,No,No,No,No,No,No,Yes,97,High
+38.2,High Fever,65,Female,26.0,No,Yes,No,No,Yes,Yes,Yes,100,Normal
