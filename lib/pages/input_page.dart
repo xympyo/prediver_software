@@ -1,6 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
+import 'package:prediver/pages/result_page.dart';
 import 'package:prediver/shared/theme.dart';
 import 'package:prediver/shared/global.dart' as globals;
 
@@ -313,6 +314,12 @@ class _InputPageState extends State<InputPage> {
     if (_errorMessage.isEmpty) {
       await sendDataToFlask();
       await computeData();
+      await Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => const ResultPage(),
+        ),
+      );
     } else {
       print("Validation failed: $_errorMessage");
     }
@@ -398,9 +405,6 @@ class _InputPageState extends State<InputPage> {
       return Container(
         width: double.infinity,
         height: 620,
-        margin: const EdgeInsets.only(
-          top: 40,
-        ),
         decoration: BoxDecoration(
           color: kWhiteColor,
           borderRadius: BorderRadius.only(
@@ -527,8 +531,7 @@ class _InputPageState extends State<InputPage> {
         margin: EdgeInsets.only(
           left: defaultMargin,
           right: defaultMargin,
-          top: 32,
-          bottom: 140,
+          bottom: 120,
         ),
         child: Column(
           children: [
@@ -631,6 +634,7 @@ class _InputPageState extends State<InputPage> {
       return Align(
         alignment: Alignment.bottomCenter,
         child: Container(
+          color: Colors.transparent,
           margin: EdgeInsets.only(
             top: 40,
             left: defaultMargin,
@@ -673,16 +677,21 @@ class _InputPageState extends State<InputPage> {
           ),
           header(),
           Expanded(
-            child: Stack(
-              children: [
-                whiteBackground(),
-                ListView(
-                  children: [
-                    textFieldContainer(),
-                  ],
-                ),
-                button(),
-              ],
+            child: Container(
+              margin: const EdgeInsets.only(
+                top: 20,
+              ),
+              child: Stack(
+                children: [
+                  whiteBackground(),
+                  ListView(
+                    children: [
+                      textFieldContainer(),
+                    ],
+                  ),
+                  button(),
+                ],
+              ),
             ),
           ),
         ],

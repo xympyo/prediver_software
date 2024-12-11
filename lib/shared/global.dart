@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 int age = 0;
 int temp = 0;
 int gender = -1;
