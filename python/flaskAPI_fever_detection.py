@@ -32,7 +32,8 @@ df["Fatigue"] = df["Fatigue"].map({"No": 0, "Yes": 1})
 df["Chronic_Conditions"] = df["Chronic_Conditions"].map({"No": 0, "Yes": 1})
 df["Allergies"] = df["Allergies"].map({"No": 0, "Yes": 1})
 df["Smoking_History"] = df["Smoking_History"].map({"No": 0, "Yes": 1})
-df = df.dropna()
+numeric_columns = df.select_dtypes(include=[np.number]).columns
+df[numeric_columns] = df[numeric_columns].fillna(df[numeric_columns].median())
 
 X = df[
     [

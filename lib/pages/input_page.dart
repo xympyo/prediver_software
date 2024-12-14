@@ -8,7 +8,7 @@ import 'package:prediver/shared/global.dart' as globals;
 import 'package:http/http.dart' as http;
 
 class InputPage extends StatefulWidget {
-  InputPage({
+  const InputPage({
     super.key,
   });
 
